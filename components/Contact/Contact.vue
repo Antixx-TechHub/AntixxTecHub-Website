@@ -67,9 +67,9 @@
                     <div class="contact-info-content">
                         <h3>Contact us by Phone Number or Email Address</h3>
                         <h2>
-                            <a href="tel:+0881306298615">+088 130 629 8615</a>
+                            <a href="tel:+0881306298615">+91 86688 75750</a>
                             <span>OR</span>
-                            <a href="mailto:hello@striki.com">hello@striki.com</a>
+                            <a href="mailto:hello@striki.com">sales@antixxtechhub.com</a>
                         </h2>
 
                         <ul class="social">
