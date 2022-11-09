@@ -563,7 +563,7 @@ Navbar Area CSS
                 }
                 &:first-child {
                     a {
-                        margin-left: -85px;
+                        margin-left: 0px;
                     }
                 }
                 &:hover, &.active {
@@ -10052,7 +10052,7 @@ ME About Area CSS
     }
 }
 .me-about-content {
-    padding-left: 30px;
+    padding-right: 50px;
 
     span {
         color: $main-color;
@@ -10163,7 +10163,7 @@ ME About Area CSS
 Me Choose Area CSS
 =================================================*/
 .me-choose-content {
-    padding-right: 30px;
+    padding-left: 50px;
 
     span {
         color: $main-color;

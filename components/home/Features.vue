@@ -6,7 +6,7 @@
                     <div class="sm-features-card">
                         <img src="~/assets/img/seo-marketing/features/analysis.png" alt="image">
                         <h3>
-                            <NuxtLink to="/single-service">Data Analysis</NuxtLink>
+                            <NuxtLink to="/single-service">IT Consultancy</NuxtLink>
                         </h3>
                         <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus sed porttitor lectus nibh.</p>
                     </div>
@@ -16,7 +16,7 @@
                     <div class="sm-features-card">
                         <img src="~/assets/img/seo-marketing/features/pay-per-click.png" alt="image">
                         <h3>
-                            <NuxtLink to="/single-service">PPC Marketing</NuxtLink>
+                            <NuxtLink to="/single-service">Web Development</NuxtLink>
                         </h3>
                         <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus sed porttitor lectus nibh.</p>
                     </div>
@@ -26,7 +26,7 @@
                     <div class="sm-features-card">
                         <img src="~/assets/img/seo-marketing/features/analytics.png" alt="image">
                         <h3>
-                            <NuxtLink to="/single-service">Business Analytics</NuxtLink>
+                            <NuxtLink to="/single-service">IT Solutions</NuxtLink>
                         </h3>
                         <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus sed porttitor lectus nibh.</p>
                     </div>

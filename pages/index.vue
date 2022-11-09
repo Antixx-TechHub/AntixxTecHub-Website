@@ -6,17 +6,25 @@
             <MainBanner />
             <Features />
             <About />
+            <WhatWeDo />
+            <WhyChooseUs />
+            <Funfacts />
+            <OurExpertise />
             <CheckWebsites />
             <Services />
-            <Funfacts />
-            <WeWork />
             <Faq />
-            <Partner />
+            <!-- <Pricing />
+            <Subscribe /> -->
+            <UIDesign />
+            <DigitalMarketing />
+            <WeWork />
             <Overview />
-            <Pricing />
-            <Subscribe />
+            <Analysis />
+            <Videos />
+            <Partner />
+            <Testimonials />
         </div>
-        <Blog />
+        <OurLatestBlog />
         <FooterStyleOne />
     </div>
 </template>
@@ -27,17 +35,25 @@ import Navbar from '../layouts/Navbar';
 import MainBanner from '../components/home/MainBanner';
 import Features from '../components/home/Features';
 import About from '../components/home/About';
+import WhatWeDo from '../components/home/WhatWeDo';
+import WhyChooseUs from '../components/home/WhyChooseUs'
 import CheckWebsites from '../components/home/CheckWebsites';
 import Services from '../components/home/Services';
-import Funfacts from '../components/home/Funfacts';
 import WeWork from '../components/home/WeWork';
 import Faq from '../components/home/Faq';
-import Partner from '../components/home/Partner'
+// import Pricing from '../components/home/Pricing';
+// // import Subscribe from '../components/home/Subscribe'
+import UIDesign from '../components/home/UIDesign';
+import DigitalMarketing from '../components/home/DigitalMarketing';
 import Overview from '../components/home/Overview';
-import Pricing from '../components/home/Pricing';
-import Subscribe from '../components/home/Subscribe'
-import Blog from '../components/Common/Blog'
-import FooterStyleOne from '../layouts/FooterStyleOne'
+import Funfacts from '../components/home/Funfacts';
+import OurExpertise from '../components/home/OurExpertise';
+import Analysis from '../components/home/Analysis';
+import Videos from '../components/home/Videos';
+import Partner from '../components/home/Partner'
+import Testimonials from '../components/home/Testimonials';
+import OurLatestBlog from '../components/home/OurLatestBlog';
+import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
@@ -45,16 +61,25 @@ export default {
         MainBanner,
         Features,
         About,
-        CheckWebsites,
+        WhatWeDo,
+        WhyChooseUs,
+        // CheckWebsites,
         Services,
-        Funfacts,
         WeWork,
-        Faq,
-        Partner,
+        // Faq,
+        // Partner,
+        // Pricing,
+        // // Subscribe,
+        UIDesign,
+        DigitalMarketing,
         Overview,
-        Pricing,
-        Subscribe,
-        Blog,
+        Funfacts,
+        OurExpertise,
+        Analysis,
+        Videos,
+        Partner,
+        Testimonials,
+        OurLatestBlog,
         FooterStyleOne,
     }
 };

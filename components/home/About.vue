@@ -3,7 +3,7 @@
         <div class="container">
             <div class="section-title-with-large-box">
                 <span>About Company</span>
-                <h2>SEO is the process of growing the quality and quantity of website traffic</h2>
+                <h2>We Are A Strategic IT Agency</h2>
             </div>
             
             <div class="row align-items-center justify-content-center">
@@ -15,21 +15,19 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="sm-about-content">
-                        <h3>Grow your business with our seo agency</h3>
+                        <h3>We Can Build Strategy That Would Make a Big Difference</h3>
                         <p>Vivamus suscipit tortor eget felis porttitor volutpat nulla porttitor accumsan tincidunt proin eget tortor risus vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
                         <div class="row justify-content-center">
                             <div class="col-lg-6 col-sm-6">
                                 <ul class="list">
-                                    <li><i class='bx bx-check'></i> Content Marketing</li>
-                                    <li><i class='bx bx-check'></i> App Development</li>
-                                    <li><i class='bx bx-check'></i> PPC Advertising</li>
+                                    <li><i class='bx bx-check'></i> Marketing Solutions</li>
+                                    <li><i class='bx bx-check'></i> Flexible Working Hours</li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <ul class="list">
-                                    <li><i class='bx bx-check'></i> Social Marketing</li>
-                                    <li><i class='bx bx-check'></i> Web Development</li>
-                                    <li><i class='bx bx-check'></i> Social Media Promotion</li>
+                                    <li><i class='bx bx-check'></i> Experienced Team</li>
+                                    <li><i class='bx bx-check'></i> Digital Experience</li>
                                 </ul>
                             </div>
                         </div>

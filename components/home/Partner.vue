@@ -1,44 +1,100 @@
 <template>
-    <div class="sm-partner-area">
+    <div class="partner-area pt-100 pb-70 bg-f8fbfa">
         <div class="container">
-            <div class="sm-partner-inner-box pt-100 pb-70">
-                <div class="section-title-with-large-box">
-                    <span>Trusted By</span>
-                </div>
-                <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-2 col-6 col-sm-3 col-md-4">
-                        <div class="sm-partner-box">
-                            <img src="~/assets/img/seo-marketing/partner/partner1.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-sm-3 col-md-4">
-                        <div class="sm-partner-box">
-                            <img src="~/assets/img/seo-marketing/partner/partner2.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-sm-3 col-md-4 wow">
-                        <div class="sm-partner-box">
-                            <img src="~/assets/img/seo-marketing/partner/partner3.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-sm-3 col-md-4">
-                        <div class="sm-partner-box">
-                            <img src="~/assets/img/seo-marketing/partner/partner4.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-sm-3 col-md-4">
-                        <div class="sm-partner-box">
-                            <img src="~/assets/img/seo-marketing/partner/partner5.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-sm-3 col-md-4">
-                        <div class="sm-partner-box">
-                            <img src="~/assets/img/seo-marketing/partner/partner6.png" alt="image">
-                        </div>
+            <div class="row align-items-center">
+                <div class="col-lg-3 col-md-12">
+                    <div class="partner-title">
+                        <h3>Our Clients:</h3>
                     </div>
                 </div>
-                <div class="sm-partner-shape">
-                    <img src="~/assets/img/seo-marketing/partner/shape.png" alt="image">
+
+                <div class="col-lg-9 col-md-12">
+                    <div class="partner-slides">
+                        <carousel
+                            :autoplay = "true"
+                            :loop = "true"
+                            :paginationEnabled = "false"
+                            :perPageCustom = "[[0, 2], [576, 3], [768, 3], [1200, 4]]"
+                        >
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/1.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/2.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/3.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/4.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/1.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/2.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/3.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/4.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/1.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+
+                            <slide>
+                                <div class="single-partner-item">
+                                    <a href="#">
+                                        <img src="~/assets/img/partner-image/2.png" alt="image">
+                                    </a>
+                                </div>
+                            </slide>
+                        </carousel>
+                    </div>
                 </div>
             </div>
         </div>
