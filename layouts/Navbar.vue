@@ -26,42 +26,42 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/product-development" class="nav-link">
                                             Product Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/web-development" class="nav-link">
                                             Web Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
-                                            Mobile App Developments
+                                        <NuxtLink to="/app-development" class="nav-link">
+                                            App Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/dedicated-development-teams" class="nav-link">
                                             Dedicated Development Teams
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/product-engineering" class="nav-link">
                                             Product Engineering
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/ui-and-ux-services" class="nav-link">
                                             UI and UX Services
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/it-consulting" class="nav-link">
                                             IT Consulting
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/software-testing-and-qa" class="nav-link">
                                             Software Testing and QA
                                         </NuxtLink>
                                     </li>

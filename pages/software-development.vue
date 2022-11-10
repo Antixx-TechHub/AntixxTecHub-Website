@@ -14,7 +14,7 @@
         <PageAbout />
         <CaseStudies />
         <Featured />
-        <ConnectionsYourcCustomers />
+        <ConnectionsYourCustomers />
         <TheBestInnovative />
         <PageFeature />
         <Expertise />
@@ -38,7 +38,7 @@ import TheAbilityToElicit from '../components/software-development/TheAbilityToE
 import TheBestInnovative from '../components/software-development/TheBestInnovative';
 import WhyChooseUs from '../components/software-development/WhyChooseUs';
 import Features from '../components/software-development/Features';
-import ConnectionsYourcCustomers from '../components/software-development/ConnectionsYourcCustomers';
+import ConnectionsYourCustomers from '../components/software-development/ConnectionsYourCustomers';
 import About from '../components/software-development/About';
 import PageAbout from '../components/software-development/PageAbout';
 import CaseStudies from '../components/software-development/CaseStudies';
@@ -63,7 +63,7 @@ export default {
         TheAbilityToElicit,
         WhyChooseUs,
         Features,
-        ConnectionsYourcCustomers,
+        ConnectionsYourCustomers,
         TheBestInnovative,
         About,
         PageAbout,
