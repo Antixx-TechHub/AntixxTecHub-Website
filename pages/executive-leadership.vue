@@ -15,11 +15,11 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/team/PageTitle';
-import Team from '../components/team/Team'
-import OurLovingClients from '../components/team/OurLovingClients'
-import BestSupport from '../components/team/BestSupport'
-import FreeTrial from '../components/team/FreeTrial'
+import PageTitle from '../components/executive-leadership/PageTitle';
+import Team from '../components/executive-leadership/Team'
+import OurLovingClients from '../components/executive-leadership/OurLovingClients'
+import BestSupport from '../components/executive-leadership/BestSupport'
+import FreeTrial from '../components/executive-leadership/FreeTrial'
 import FooterStyleOne from '../layouts/FooterStyleOne'
 
 export default {

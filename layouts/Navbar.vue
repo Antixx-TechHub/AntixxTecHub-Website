@@ -21,7 +21,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link" exact>
+                                        <NuxtLink to="/software-development" class="nav-link" exact>
                                             Software Development
                                         </NuxtLink>
                                     </li>
@@ -157,7 +157,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="/about" class="nav-link">
+                                        <a href="#" class="nav-link">
                                             About
                                             <i class='bx bx-chevron-down'></i>
                                         </a>
@@ -177,12 +177,12 @@
                                             </li>
 
                                             <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Why QAT Global
+                                                <NuxtLink to="/" class="nav-link">Why Antixx TechHUb Global
                                                 </NuxtLink>
                                             </li>
 
                                             <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Executive Leadership
+                                                <NuxtLink to="/executive-leadership" class="nav-link">Executive Leadership
                                                 </NuxtLink>
                                             </li>
 
