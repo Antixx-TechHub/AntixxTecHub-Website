@@ -1,8 +1,11 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Service Details" pageDesc="Our Services" />
-        <Servicedetails />
+        <PageTitle 
+            pageTitle="Contact Us" 
+            pageDesc="Drop us Message for any Query" 
+        />
+        <Contact />
         <BestSupport />
         <OurLovingClients />
         <FooterStyleOne />
@@ -11,17 +14,17 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/Common/PageTitle';
-import Servicedetails from '../components/single-service/Servicedetails'
-import BestSupport from '../components/Common/BestSupport'
-import OurLovingClients from '../components/Common/OurLovingClients'
+import PageTitle from '../components/contact-us/PageTitle';
+import Contact from '../components/contact-us/Contact'
+import BestSupport from '../components/contact-us/BestSupport'
+import OurLovingClients from '../components/contact-us/OurLovingClients'
 import FooterStyleOne from '../layouts/FooterStyleOne'
 
 export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        Servicedetails,
+        Contact,
         BestSupport,
         OurLovingClients,
         FooterStyleOne,

@@ -152,7 +152,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/about" class="nav-link">About Us</NuxtLink>
+                                        <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
 
                                     <li class="nav-item">
@@ -189,7 +189,7 @@
                         </ul>
 
                         <div class="others-options">
-                            <NuxtLink to="/contact" class="default-btn">
+                            <NuxtLink to="/contact-us" class="default-btn">
                                 <i class="bx bxs-hot"></i>Contact Us<span></span>
                             </NuxtLink>
                             <NuxtLink to="/log-in" class="optional-btn">

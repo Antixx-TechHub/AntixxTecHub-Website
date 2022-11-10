@@ -17,11 +17,11 @@
                         <h3>Company</h3>
 
                         <ul class="services-list">
-                            <li><NuxtLink to="/about">About Us</NuxtLink></li>
-                            <li><NuxtLink to="/services-one">Services</NuxtLink></li>
-                            <li><NuxtLink to="/features-one">Features</NuxtLink></li>
-                            <li><NuxtLink to="/pricing">Our Pricing</NuxtLink></li>
-                            <li><NuxtLink to="/blog-one">Latest News</NuxtLink></li>
+                            <li><NuxtLink to="/about-us">About Us</NuxtLink></li>
+                            <li><NuxtLink to="/our-history">Our History</NuxtLink></li>
+                            <li><NuxtLink to="/blogs">Blogs</NuxtLink></li>
+                            <li><NuxtLink to="/careers">Careers</NuxtLink></li>
+                            <li><NuxtLink to="/case-studies">Case Studies</NuxtLink></li>
                         </ul>
                     </div>
                 </div>
@@ -31,11 +31,11 @@
                         <h3>Support</h3>
 
                         <ul class="support-list">
+                            <li><NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink></li>
+                            <li><NuxtLink to="/terms-of-use">Terms of Use</NuxtLink></li>
+                            <li><NuxtLink to="/sitemap">SiteMap</NuxtLink></li>
                             <li><NuxtLink to="/faq">FAQ's</NuxtLink></li>
-                            <li><NuxtLink to="/#">Privacy Policy</NuxtLink></li>
-                            <li><NuxtLink to="/#">Terms & Conditions</NuxtLink></li>
-                            <li><NuxtLink to="/about">Community</NuxtLink></li>
-                            <li><NuxtLink to="/contact">Contact Us</NuxtLink></li>
+                            <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
                         </ul>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
             </div>
 
             <div class="copyright-area">
-                <p>&copy; <a href="https://www.antixxtechhub.com" target="_blank">Copyright 2022 Antixx TechHub</a> – All Rights Reserved.</p>
+                <p>&copy; <a href="https://www.antixxtechhub.com" target="_blank">Copyright 2022 Antixx TechHub Pvt. Ltd.</a> – All Rights Reserved.</p>
             </div>
         </div>
     </footer>

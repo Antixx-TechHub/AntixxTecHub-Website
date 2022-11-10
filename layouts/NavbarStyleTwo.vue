@@ -152,7 +152,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/about" class="nav-link">About Us</NuxtLink>
+                                        <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
 
                                     <li class="nav-item">
