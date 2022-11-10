@@ -16,7 +16,7 @@
                     <b-collapse class="collapse navbar-collapse" id="navbarSupportedContent" is-nav>
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="/software-development" class="nav-link">
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
@@ -157,7 +157,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="/about" class="nav-link">
+                                        <a href="/#" class="nav-link">
                                             About
                                             <i class='bx bx-chevron-down'></i>
                                         </a>
@@ -177,12 +177,12 @@
                                             </li>
 
                                             <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Why QAT Global
+                                                <NuxtLink to="/" class="nav-link">Why AntixxTechHub Global
                                                 </NuxtLink>
                                             </li>
 
                                             <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Executive Leadership
+                                                <NuxtLink to="/executive-leadership" class="nav-link">Executive Leadership
                                                 </NuxtLink>
                                             </li>
 
