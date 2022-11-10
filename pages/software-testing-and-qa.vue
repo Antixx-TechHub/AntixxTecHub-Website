@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Software Testing and QA" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Software Testing & QA" pageDesc="Lorem Ipsum" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

@@ -16,53 +16,53 @@
                     <b-collapse class="collapse navbar-collapse" id="navbarSupportedContent" is-nav>
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="/software-development" class="nav-link">
+                                <a href="#" class="nav-link">
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link" exact>
+                                        <NuxtLink to="/software-development" class="nav-link" exact>
                                             Software Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/product-development" class="nav-link">
                                             Product Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/web-development" class="nav-link">
                                             Web Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
-                                            Mobile App Developments
+                                        <NuxtLink to="/app-development" class="nav-link">
+                                            App Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/dedicated-development-teams" class="nav-link">
                                             Dedicated Development Teams
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/product-engineering" class="nav-link">
                                             Product Engineering
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
-                                            UI and UX Services
+                                        <NuxtLink to="/ui-and-ux-services" class="nav-link">
+                                            UI & UX Services
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/it-consulting" class="nav-link">
                                             IT Consulting
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
-                                            Software Testing and QA
+                                        <NuxtLink to="/software-testing-and-qa" class="nav-link">
+                                            Software Testing & QA
                                         </NuxtLink>
                                     </li>
                                 </ul>
@@ -70,42 +70,42 @@
 
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
-                                    Technolgies <i class='bx bx-chevron-down'></i>
+                                    Technologies <i class='bx bx-chevron-down'></i>
                                 </a>
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link" exact>
+                                        <NuxtLink to="/expert-iphone-app-developers" class="nav-link" exact>
                                             Expert iPhone App Developers
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/expert-android-app-developers" class="nav-link">
                                             Expert Android App Developers
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/expert-windows-phone-app-developers" class="nav-link">
                                             Expert Windows Phone App Developers
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/hybrid-app-development" class="nav-link">
                                             Hybrid App Development
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/cloud-computing-solutions" class="nav-link">
                                             Cloud Computing Solutions
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/html5-software-and-app-developers" class="nav-link">
                                             Html5 Software & App Developers
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/expert-ipad-app-developers" class="nav-link">
                                             Expert IPAD App Developers
                                         </NuxtLink>
                                     </li>
@@ -119,27 +119,22 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/blog-two" class="nav-link" exact>
+                                        <NuxtLink to="/blogs" class="nav-link" exact>
                                             Blogs
                                         </NuxtLink>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <NuxtLink to="/single-blog" class="nav-link">Blog Details</NuxtLink>
-                                            </li>
-                                        </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/insights" class="nav-link">
                                             Insights
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/case-studies" class="nav-link">
                                             Case Studies
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/news" class="nav-link">
                                             News
                                         </NuxtLink>
                                     </li>
@@ -157,44 +152,32 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="/#" class="nav-link">
-                                            About
-                                            <i class='bx bx-chevron-down'></i>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <NuxtLink to="/about" class="nav-link">About</NuxtLink>
-                                            </li>
-
-                                            <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Company Profile
-                                                </NuxtLink>
-                                            </li>
-
-                                            <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Our History
-                                                </NuxtLink>
-                                            </li>
-
-                                            <li class="nav-item">
-                                                <NuxtLink to="/" class="nav-link">Why AntixxTechHub Global
-                                                </NuxtLink>
-                                            </li>
-
-                                            <li class="nav-item">
-                                                <NuxtLink to="/executive-leadership" class="nav-link">Executive Leadership
-                                                </NuxtLink>
-                                            </li>
-
-                                            <li class="nav-item">
-                                                <NuxtLink to="/team" class="nav-link">Experts Team
-                                                </NuxtLink>
-                                            </li>
-                                        </ul>
+                                        <NuxtLink to="/about" class="nav-link">About Us</NuxtLink>
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">Careers</NuxtLink>
+                                        <NuxtLink to="/our-history" class="nav-link">Our History
+                                        </NuxtLink>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <NuxtLink to="/why-antixx-techhub-global" class="nav-link">Why Antixx TechHUb
+                                            Global
+                                        </NuxtLink>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <NuxtLink to="/executive-leadership" class="nav-link">Executive Leadership
+                                        </NuxtLink>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <NuxtLink to="/team" class="nav-link">Experts Team
+                                        </NuxtLink>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <NuxtLink to="/careers" class="nav-link">Careers</NuxtLink>
                                     </li>
 
                                     <li class="nav-item">

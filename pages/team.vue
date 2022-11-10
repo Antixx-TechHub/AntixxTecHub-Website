@@ -2,7 +2,7 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle 
-            pageTitle="Team" 
+            pageTitle="Our Exepert Team" 
             pageDesc="Meet Our experts always ready to help you" 
         />
         <Team />
