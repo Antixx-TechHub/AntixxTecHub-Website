@@ -189,7 +189,7 @@
                         </ul>
 
                         <div class="others-options">
-                            <NuxtLink to="/contact" class="default-btn">
+                            <NuxtLink to="/contact-us" class="default-btn">
                                 <i class="bx bxs-hot"></i>Contact Us<span></span>
                             </NuxtLink>
                             <NuxtLink to="/log-in" class="default-btn black-btn">
