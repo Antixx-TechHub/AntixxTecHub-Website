@@ -21,7 +21,7 @@
                             <li><NuxtLink to="/our-history">Our History</NuxtLink></li>
                             <li><NuxtLink to="/blogs">Blogs</NuxtLink></li>
                             <li><NuxtLink to="/careers">Careers</NuxtLink></li>
-                            <li><NuxtLink to="/case-studies">Case Studies</NuxtLink></li>
+                            <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
                         </ul>
                     </div>
                 </div>
@@ -33,9 +33,9 @@
                         <ul class="support-list">
                             <li><NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink></li>
                             <li><NuxtLink to="/terms-of-use">Terms of Use</NuxtLink></li>
+                            <li><NuxtLink to="/cookies">Cookies</NuxtLink></li>
                             <li><NuxtLink to="/sitemap">SiteMap</NuxtLink></li>
                             <li><NuxtLink to="/faq">FAQ's</NuxtLink></li>
-                            <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
                         </ul>
                     </div>
                 </div>

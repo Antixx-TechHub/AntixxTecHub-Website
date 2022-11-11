@@ -56,6 +56,31 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
+                                        <NuxtLink to="/graphics-design" class="nav-link" exact>
+                                            Graphics Design
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/digital-marketing" class="nav-link" exact>
+                                            Digital Marketing
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/ecommerce" class="nav-link" exact>
+                                            eCommerce
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/branding" class="nav-link" exact>
+                                            Branding
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/website-seo-audit" class="nav-link" exact>
+                                            Website SEO Audit
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
                                         <NuxtLink to="/it-consulting" class="nav-link">
                                             IT Consulting
                                         </NuxtLink>
