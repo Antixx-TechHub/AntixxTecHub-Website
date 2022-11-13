@@ -6,62 +6,87 @@
             </div>
 
             <div class="service-details-content">
-                <h3>We Provide Useful Services</h3>
-    
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
+                <p>We encourage the visitors to the Antixx TechHub website to read our privacy policy. It is created to
+                    make everyone understand how Antixx TechHub uses and protects the information provided by you while
+                    using Antixx TechHub (we, us, our). We (Antixx TechHub) understand that by using this website, you
+                    agree with all our policies including Privacy Policy, Cookies policy, ‘Terms and Conditions’, and
+                    Refund/Return Policy, etc.</p>
+                <p>We reserve the right to change this one and other policies any time without any prior notice. We make
+                    it clear that it is your responsibility to understand policy clauses. If you have any doubt, please
+                    contact our experts available at +91 7796554407. or to mail us at info@antixxtechhub.com</p>
+                <p>We strongly advise the visitors of Antixx TechHub to read Privacy Policy every time they visit the
+                    www.antixxtechhub.com to get them aware of the latest changes made by us.</p>
+                <p>We collect users’ data for continuous improvement in service quality standards </p>
 
-                <h4>Core Development</h4>
-                <p>No fake products and services. The customer is king, their lives and needs are the inspiration. But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
-        
-                <h4>Define Your Choices</h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic.</p>
+                <h5>We may or may not collect and use the following users’ data:</h5>
+                <ul>
+                    <li>IP address</li>
+                    <li>Contact information</li>
+                    <li>Email address</li>
+                    <li>Preferences</li>
+                    <li>Personal interests</li>
+                    <li>Online behavior to get the information and act</li>
+                </ul>
 
-                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this.</p>
+                <h5>We may or may not collect users’ data for the following and other objectives</h5>
+                <ul>
+                    <li>To know and address users’ needs in a better way</li>
+                    <li>To improve our products line and the spectrum of support services</li>
+                    <li>To send promotional emails as keeping our clients updated with the latest developments in the
+                        fields of their interest is our organizational policy</li>
+                    <li>To periodically share the information of your interest</li>
+                    <li> To reach you for virtual survey</li>
+                    <li>To ask you to participate in quality monitoring surveys and market research campaigns</li>
+                    <li>To optimize the features and functionalities of our website (this one and others) according to
+                        your online behaviors/preferences</li>
+                </ul>
+
+                <h5>Security of Collected Data</h5>
+                <p>Antixx TechHub promises to imply the robust security measures to keep the stored information intact,
+                    secure, and protected against all the possibilities of vulnerabilities.</p>
+                <p>We follow the industry-best policy and workflows to keep all your information confidential.</p>
+                <p>We apply the technically-best practices to prevent any data theft and unauthorized access.</p>
+
+                <h5>Links of Other Websites</h5>
+                <p>Antixx TechHub website may or may not have external links of other websites that may take you to
+                    other business websites.</p>
+                <p>We at Antixx TechHub are not responsible for the security, privacy protection, and content policies
+                    of other websites. Visit to linked websites is not governed by our business policies.</p>
+
+                <h5>Sharing Personal Data</h5>
+                <p>We allow you to deny us the storage and use of your personal information. You can fill a simple form
+                    available at Antixx TechHub website.</p>
+                <p> If you were agree for sharing your information in the past but now you do not want to share your
+                    information, email us with a request to make the changes. Our technical experts will make the
+                    required changes accordingly.</p>
+                <p>We do not distribute, lease, or sell the users’ personal information to 3rd-party until we get the
+                    users’ permission. We can share your information if the law demands it. We can use users’
+                    information for marketing, mailing, updating, and promotional purposes.</p>
+                <p><strong>If you need any further clarification, contact us:</strong></p>
 
                 <div class="service-details-info">
                     <div class="single-info-box">
-                        <h4>Client</h4>
-                        <span>James Anderson</span>
+                        <h4>Contact Name</h4>
+                        <span>Prashant Bhosale</span>
                     </div>
 
                     <div class="single-info-box">
-                        <h4>Category</h4>
-                        <span>Saas, Marketing</span>
+                        <h4>e-Email</h4>
+                        <span>info@antixxtechhub.com</span>
                     </div>
 
                     <div class="single-info-box">
-                        <h4>Date</h4>
-                        <span>February 28, 2022</span>
+                        <h4>Contact Number</h4>
+                        <span>+91 7796554407</span>
                     </div>
 
                     <div class="single-info-box">
-                        <h4>Share</h4>
-                        <ul class="social">
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-facebook'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-instagram'></i>
-                                </a>
-                            </li>
-                        </ul>
+                        <h4>Address</h4>
+                        <span>Pune, MH, India 411045.</span>
                     </div>
 
                     <div class="single-info-box">
-                        <a class="default-btn" href="#">Live Preview</a>
+                        <a class="default-btn" href="https://antixxtechhub.com/">www.antixxtechhub.com</a>
                     </div>
                 </div>
             </div>

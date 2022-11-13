@@ -6,62 +6,80 @@
             </div>
 
             <div class="service-details-content">
-                <h3>We Provide Useful Services</h3>
-    
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
+                <h3>Cookies Policy for the use of Antixx TechHub Website</h3>
+                <h6>Below is the clarification about our Cookies policy</h6>
 
-                <h4>Core Development</h4>
-                <p>No fake products and services. The customer is king, their lives and needs are the inspiration. But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
-        
-                <h4>Define Your Choices</h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic.</p>
+                <h5>What are Cookies?</h5>
+                <p>Cookies are the small data files containing information like the usernames and passwords exchanged
+                    between the user's device and web server to identify the users. This policy agreement is an
+                    extension of the ‘Terms and Conditions’ agreement. It is being stated here to clarify our Cookies
+                    policy with the intention to make the use of the Antixx TechHub website secure and transparent.</p>
 
-                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this.</p>
+                <h5>Why do we use cookies?</h5>
+                <p>The collected data Cookies facilitate us to know our users’ behavior. We also analyze collected
+                    Cookies data to get insights to improve users’ on-the-page experience continually. Use of any part
+                    of Antixx TechHub website will be taken as your acceptance to our ‘cookies policy’ as well as our
+                    ‘terms and conditions and ‘privacy policy'.</p>
+
+                <h4>Types of Cookies [Antixx TechHub] Can Store and Use</h4>
+                <h5>Necessary Cookies</h5>
+                <p>The database of collected necessary cookies helps us to improve your experience of visiting our
+                    website. We are committed to delivering seamless browsing and usage experience to every user of the
+                    Antixx TechHub website; therefore, we continually update features and functionalities. The insights
+                    gained from the collected cookies guide us to advance the security and performance of the Antixx
+                    TechHub website for our user’s convenience.</p>
+
+                <h5>Functional Cookies</h5>
+                <p>The functional cookies allow us to manage the Antixx TechHub website in line with the analyzed online
+                    behavior of our website users. We use functional cookies also to stop the users’ activities that may
+                    violate or violate our policies and other usage agreements. The functional cookies also help us to
+                    improve the page experience of users across the website.</p>
+
+                <h5>Analytical Cookies</h5>
+                <p>The analytical cookies help us to develop a database this is used for statistical purposes. The deep
+                    data analysis delivers us real-time insights about- how you use the Antixx TechHub website. The
+                    analytical cookies do not contain personal information i.e. users’ email addresses or names.</p>
+
+                <h5>Third-party Cookies</h5>
+                <p>The Antixx TechHub website has several links to other websites and you may be drifted to those
+                    websites. All the linked websites have their own cookies policies (3rd party cookies), and we are
+                    not responsible for any dispute raised because you visit these websites. However, we try to identify
+                    3rd party cookies before you use these websites; you have the liberty to accept or not to accept the
+                    3rd party cookies.</p>
+
+                <h5>How to Delete Cookies</h5>
+                <p>While landing at Antixx TechHub website, you get the option to accept or deny the cookies. In case,
+                    you do not want Antixx TechHub to collect the cookies regarding your visit any further, you can
+                    delete the stored cookies by accessing your browser settings. If you deny the acceptance to cookies
+                    or disable cookies through your browser setting, still, you can visit Antixx TechHub as usual but
+                    with certain limits for the use of some features and functionality.</p>
+
+                <p><strong>If you have any doubt and query about our cookie policy and other usage agreements, please
+                        Contact us-</strong></p>
 
                 <div class="service-details-info">
                     <div class="single-info-box">
-                        <h4>Client</h4>
-                        <span>James Anderson</span>
+                        <h4>Contact Name</h4>
+                        <span>Prashant Bhosale</span>
                     </div>
 
                     <div class="single-info-box">
-                        <h4>Category</h4>
-                        <span>Saas, Marketing</span>
+                        <h4>e-Email</h4>
+                        <span>info@antixxtechhub.com</span>
                     </div>
 
                     <div class="single-info-box">
-                        <h4>Date</h4>
-                        <span>February 28, 2022</span>
+                        <h4>Contact Number</h4>
+                        <span>+91 7796554407</span>
                     </div>
 
                     <div class="single-info-box">
-                        <h4>Share</h4>
-                        <ul class="social">
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-facebook'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" href="#">
-                                    <i class='bx bxl-instagram'></i>
-                                </a>
-                            </li>
-                        </ul>
+                        <h4>Address</h4>
+                        <span>Pune, MH, India 411045.</span>
                     </div>
 
                     <div class="single-info-box">
-                        <a class="default-btn" href="#">Live Preview</a>
+                        <a class="default-btn" href="https://antixxtechhub.com/">www.antixxtechhub.com</a>
                     </div>
                 </div>
             </div>

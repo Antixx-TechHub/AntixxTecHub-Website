@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Privacy Policy" pageDesc="Our Services" />
+        <PageTitle pageTitle="Privacy Policy" pageDesc="" />
         <Servicedetails />
         <BestSupport />
         <FreeTrial />

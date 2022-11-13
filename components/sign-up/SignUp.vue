@@ -18,8 +18,9 @@
                                     </NuxtLink>
                                 </div>
 
-                                <h3>Open up your Striki Account now</h3>
-                                <p>
+                                <h3>Coming Soon</h3>
+                                <p>We're working hard to improve our website and we'll ready to launch after</p>
+                                <!-- <p>
                                     Already signed up? 
                                     <NuxtLink to="/log-in">Log in</NuxtLink>
                                 </p>
@@ -40,7 +41,7 @@
                                         <button type="submit" class="facebook"><i class='bx bxl-facebook'></i> Connect with Facebook</button>
                                         <button type="submit" class="google"><i class='bx bxl-google'></i> Connect with Google</button>
                                     </div>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                     </div>

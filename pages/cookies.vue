@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Cookies" pageDesc="Our Services" />
+        <PageTitle pageTitle="Cookies" pageDesc="" />
         <Servicedetails />
         <BestSupport />
         <FreeTrial />

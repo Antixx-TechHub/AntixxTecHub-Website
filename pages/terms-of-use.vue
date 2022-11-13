@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Terms of Use" pageDesc="Our Services" />
+        <PageTitle pageTitle="Terms of Use" pageDesc="" />
         <Servicedetails />
         <BestSupport />
         <FreeTrial />
@@ -11,10 +11,10 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/privacy-policy/PageTitle';
-import Servicedetails from '../components/privacy-policy/Servicedetails'
-import BestSupport from '../components/privacy-policy/BestSupport'
-import FreeTrial from '../components/privacy-policy/FreeTrial'
+import PageTitle from '../components/terms-of-use/PageTitle';
+import Servicedetails from '../components/terms-of-use/Servicedetails'
+import BestSupport from '../components/terms-of-use/BestSupport'
+import FreeTrial from '../components/terms-of-use/FreeTrial'
 import FooterStyleOne from '../layouts/FooterStyleOne'
 
 export default {
