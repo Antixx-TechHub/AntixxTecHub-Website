@@ -179,7 +179,7 @@
                                             <p>Smart Reporting</p>
                                             <p>Client Management</p>
                                             <p>BMC Helix DWP</p>
-                                            <p>BladeLogicc</p> -->
+                                            <p>BladeLogic</p> -->
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
