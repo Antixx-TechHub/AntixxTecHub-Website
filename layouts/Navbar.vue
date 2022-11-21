@@ -3,7 +3,7 @@
         <div class="striki-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <NuxtLink class="navbar-brand" to="/home">
+                    <NuxtLink class="navbar-brand" to="https://www.antixxtechhub.com">
                         <!-- <img src="~/assets/img/icon/logo.svg" alt="logo"> -->
                         <img src="~/assets/img/logo.png" alt="logo">
                     </NuxtLink>
