@@ -79,7 +79,7 @@
                                             <p>Software Testing & QA</p>
                                         </NuxtLink>
                                     </li>
-                                    
+
                                 </ul>
                             </li>
 
@@ -179,7 +179,7 @@
                                             <p>Smart Reporting</p>
                                             <p>Client Management</p>
                                             <p>BMC Helix DWP</p>
-                                            <p>BladeLogic</p> -->
+                                            <p>BladeLogicc</p> -->
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
