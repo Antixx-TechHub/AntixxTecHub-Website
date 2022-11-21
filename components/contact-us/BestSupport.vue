@@ -7,7 +7,7 @@
                 <form class="newsletter-form">
                     <div class="row align-items-center">
                         <div class="col-lg-8 col-md-8">
-                            <input type="email" class="input-newsletter" placeholder="hello@striki.com">
+                            <input type="email" class="input-newsletter" placeholder="tech@antixxtechhub.com">
                         </div>
 
                         <div class="col-lg-4 col-md-4">

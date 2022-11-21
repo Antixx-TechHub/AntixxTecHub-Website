@@ -10,7 +10,7 @@
                             <p>We are a highly trained, dedicated team, helping entrepreneurs, professionals, and small teams streamline success - not just in work, but in life too. We help spare your time to focus on the bigger picture by taking care of the little details.</p>
 
                             <ul>
-                                <li><i class='bx bx-badge-check'></i> Staff works from our offices in USA</li>
+                                <li><i class='bx bx-badge-check'></i> Staff works from our offices in INDIA</li>
                                 <li><i class='bx bx-badge-check'></i> Scale up/ down on demand</li>
                                 <li><i class='bx bx-badge-check'></i> One time or on going projects</li>
                                 <li><i class='bx bx-badge-check'></i> Hire based on skill set</li>
@@ -67,7 +67,7 @@
                     <div class="contact-info-content">
                         <h3>Contact us by Phone Number or Email Address</h3>
                         <h2>
-                            <a href="tel:+0881306298615">+91 86688 75750</a>
+                            <a href="tel:+0881306298615">+91 77 96 55 44 07</a>
                             <span>OR</span>
                             <a href="mailto:hello@striki.com">sales@antixxtechhub.com</a>
                         </h2>

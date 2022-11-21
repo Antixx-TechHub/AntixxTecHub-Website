@@ -3,7 +3,7 @@
         <div class="striki-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <NuxtLink class="navbar-brand" to="/">
+                    <NuxtLink class="navbar-brand" to="/index">
                         <!-- <img src="~/assets/img/icon/logo.svg" alt="logo"> -->
                         <img src="~/assets/img/logo.png" alt="logo">
                     </NuxtLink>
@@ -41,7 +41,6 @@
                                             <p>Product Development</p>
                                             <p>Web Development</p>
                                             <p>App Development</p>
-                                            <p>Dedicated Development Teams</p>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
@@ -58,6 +57,14 @@
                                             <img src="~/assets/img/icon/technologies.png" alt="image">
                                             Technologies
                                             <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <p>Expert iPhone App Developers</p>
+                                            <p>Expert Android App Developers</p>
+                                            <p>Expert Windows Phone App Developers</p>
+                                            <p>Hybrid App Development</p>
+                                            <p>Cloud Computing Solutions</p>
+                                            <p>Html5 Software & App Developers</p>
+                                            <p>Expert IPAD App Developers</p>
+                                            <p>Product Engineering</p>
                                             <p>Product Engineering</p>
                                         </NuxtLink>
                                     </li>
@@ -76,6 +83,7 @@
                                             Staff Augmentation
                                             <!-- <p>Learn the basics with expert resources.</p> -->
                                             <p>IT Consulting</p>
+                                            <p>Dedicated Development Teams</p>
                                             <p>Software Testing & QA</p>
                                         </NuxtLink>
                                     </li>
