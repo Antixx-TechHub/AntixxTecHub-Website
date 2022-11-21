@@ -4551,6 +4551,7 @@ $value_nine: 1550px;
                         background: #ff612f; 
                     }
                 }
+                
                 .navbar-nav {
                     margin-left: 0;
                     .nav-item {
@@ -4882,4 +4883,145 @@ $value_nine: 1550px;
     .saas-banner {
         height: 1000px;
     }
+}
+
+@media only screen and (max-width: 991px) {
+    .header-area {
+        position: relative;
+        padding-top: 15px;
+
+        &.header-style-two {
+            .navbar-area {
+                .navbar {
+                    .navbar-nav {
+                        margin-left: 0 !important;
+                    }
+
+                    .navbar-brand {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+
+    .navbar-area {
+        position: relative;
+
+        padding: {
+            top: 15px;
+            bottom: 15px;
+        }
+
+        ;
+
+        &.is-sticky {
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 999;
+            position: fixed;
+            background-color: var(--whiteColor) !important;
+            box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
+            animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+        }
+
+        .navbar {
+            &.toggler {
+                .collapse:not(.show) {
+                    display: block;
+                }
+            }
+        }
+    }
+
+    .feliz-responsive-nav {
+        display: block;
+        position: relative;
+        padding: 7px 0;
+
+        .dropdown-toggle {
+            &::after {
+                display: none !important;
+            }
+        }
+
+        .logo {
+            position: relative;
+            z-index: 999;
+            width: 50%;
+        }
+
+        .feliz-responsive-menu {
+            position: relative;
+
+            /* Navbar toggler */
+            .navbar-toggler {
+                border: none;
+                padding: 0;
+                font-size: unset;
+                border-radius: 0;
+                transition: var(--transition);
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                right: 0;
+
+                &::before {
+                    content: "\EF3E";
+
+                    font: {
+                        family: remixicon;
+                        size: 25px;
+                    }
+
+                    ;
+                }
+
+                &::after {
+                    content: "\EB98";
+                    display: none;
+
+                    font: {
+                        family: remixicon;
+                        size: 30px;
+                    }
+
+                    ;
+                }
+
+                &.active {
+                    &::after {
+                        display: block;
+                    }
+
+                    &::before {
+                        display: none;
+                    }
+                }
+            }
+
+            .others-option {
+                margin-left: 0;
+                display: inline !important;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                right: 50px;
+
+                .default-btn {
+                    padding-top: 7px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    padding-bottom: 7px;
+                    font-size: 12px;
+
+                    span {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+
 }

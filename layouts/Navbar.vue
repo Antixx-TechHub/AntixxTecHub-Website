@@ -3,7 +3,8 @@
         <div class="striki-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <NuxtLink class="navbar-brand" to="/">
+                    <NuxtLink class="navbar-brand" to="/home">
+                        <!-- <img src="~/assets/img/icon/logo.svg" alt="logo"> -->
                         <img src="~/assets/img/logo.png" alt="logo">
                     </NuxtLink>
 
@@ -15,7 +16,74 @@
 
                     <b-collapse class="collapse navbar-collapse" id="navbarSupportedContent" is-nav>
                         <ul class="navbar-nav">
-                            <li class="nav-item">
+
+                            <li class="nav-item megamenu">
+                                <a href="#" class="nav-link">
+                                    Services <i class='bx bx-chevron-down'></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/design.png" alt="image">
+                                            Design
+                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <p>UI & UX Services</p>
+                                            <p>Graphics Design</p>
+                                            <p>Branding</p> 
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/development.png" alt="image">
+                                            Development
+                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <p>Software Development</p>
+                                            <p>Product Development</p>
+                                            <p>Web Development</p>
+                                            <p>App Development</p>
+                                            <p>Dedicated Development Teams</p>
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/marketing.png" alt="image">
+                                            Online marketing
+                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <p>Digital Marketing</p>
+                                            <p>Website SEO Audit</p>
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/technologies.png" alt="image">
+                                            Technologies
+                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <p>Product Engineering</p>
+                                        </NuxtLink>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/media.png" alt="image">
+                                            Media
+                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                        </NuxtLink>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/staff-augmentation.png" alt="image">
+                                            Staff Augmentation
+                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <p>IT Consulting</p>
+                                            <p>Software Testing & QA</p>
+                                        </NuxtLink>
+                                    </li>
+                                    
+                                </ul>
+                            </li>
+
+                            <!-- <li class="nav-item">
                                 <a href="#" class="nav-link">
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
@@ -88,6 +156,65 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/software-testing-and-qa" class="nav-link">
                                             Software Testing & QA
+                                        </NuxtLink>
+                                    </li>
+                                </ul>
+                            </li> -->
+
+                            <li class="nav-item megamenu">
+                                <a href="#" class="nav-link">
+                                    Product Expertise <i class='bx bx-chevron-down'></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/bmc.svg" alt="image">
+                                            BMC
+                                            <p>Learn the basics with expert resources.</p>
+                                            <!-- <p>Helix ITSM</p>
+                                            <p>Helix Remedyforce</p>
+                                            <p>Helix Discovery</p>
+                                            <p>TrueSight</p>
+                                            <p>Control-M</p>
+                                            <p>Smart Reporting</p>
+                                            <p>Client Management</p>
+                                            <p>BMC Helix DWP</p>
+                                            <p>BladeLogic</p> -->
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/salesforce.svg" alt="image">
+                                            Salesforce
+                                            <p>Learn the basics with expert resources.</p>
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/servicenow.svg" alt="image">
+                                            ServiceNow
+                                            <p>Learn the basics with expert resources.</p>
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/sap.svg" alt="image">
+                                            SAP
+                                            <p>Learn the basics with expert resources.</p>
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/aws.svg" alt="image">
+                                            AWS
+                                            <p>Learn the basics with expert resources.</p>
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">
+                                            <img src="~/assets/img/icon/analytics.svg" alt="image">
+                                            Analytics
+                                            <p>Learn the basics with expert resources.</p>
                                         </NuxtLink>
                                     </li>
                                 </ul>
@@ -165,11 +292,6 @@
                                     </li>
                                 </ul>
                             </li>
-
-
-                            <!-- <li class="nav-item">
-                                <NuxtLink to="/about" class="nav-link">Products</NuxtLink>
-                            </li> -->
 
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
