@@ -627,7 +627,7 @@ Navbar Area CSS
         }
 
         .navbar-nav {
-            margin-left: 110px;
+            margin-left: 30px;
 
             .nav-item {
                 position: relative;
@@ -12375,7 +12375,7 @@ Header Area CSS
                             margin: 0;
 
                             .nav-link {
-                                padding: 20px 10px !important;
+                                padding: 5px 5px !important;
                                 color: var(--blackColor);
                                 display: block;
                                 margin: 0 !important;
@@ -12395,7 +12395,8 @@ Header Area CSS
                                     margin: {
                                         left: auto;
                                         right: auto;
-                                        bottom: 18px;
+                                        bottom: 15px;
+                                        top: 15px;
                                     }
 
                                     ;
@@ -12408,7 +12409,8 @@ Header Area CSS
 
                                     font: {
                                         weight: normal;
-                                        size: 15px;
+                                        size: 13px;
+                                        weight: 500;
                                     }
 
                                     ;

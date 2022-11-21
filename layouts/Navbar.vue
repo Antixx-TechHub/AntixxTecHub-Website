@@ -3,7 +3,7 @@
         <div class="striki-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <NuxtLink class="navbar-brand" to="/index">
+                    <NuxtLink class="navbar-brand" to="/">
                         <!-- <img src="~/assets/img/icon/logo.svg" alt="logo"> -->
                         <img src="~/assets/img/logo.png" alt="logo">
                     </NuxtLink>
@@ -22,50 +22,54 @@
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
+
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/design.png" alt="image">
                                             Design
-                                            <!-- <p>Learn the basics with expert resources.</p> -->
-                                            <p>UI & UX Services</p>
-                                            <p>Graphics Design</p>
-                                            <p>Branding</p> 
+                                            <NuxtLink to="/" class="nav-link"><p>Branding</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>UI & UX Services</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Graphics Design</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Product Design</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
                                         </NuxtLink>
                                     </li>
+
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/development.png" alt="image">
                                             Development
-                                            <!-- <p>Learn the basics with expert resources.</p> -->
-                                            <p>Software Development</p>
-                                            <p>Product Development</p>
-                                            <p>Web Development</p>
-                                            <p>App Development</p>
+                                            <NuxtLink to="/software-development" class="nav-link"><p>Software Development</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Product Development</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Web Development</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>App Development</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Software Testing & QA</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/marketing.png" alt="image">
                                             Online marketing
-                                            <!-- <p>Learn the basics with expert resources.</p> -->
-                                            <p>Digital Marketing</p>
-                                            <p>Website SEO Audit</p>
+                                            <NuxtLink to="/" class="nav-link"><p>SEO & SEM</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Digital Marketing</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Content Marketing</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Email Marketing</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Mobile Marketing</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Website SEO Audit</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/technologies.png" alt="image">
                                             Technologies
-                                            <!-- <p>Learn the basics with expert resources.</p> -->
-                                            <p>Expert iPhone App Developers</p>
-                                            <p>Expert Android App Developers</p>
-                                            <p>Expert Windows Phone App Developers</p>
-                                            <p>Hybrid App Development</p>
-                                            <p>Cloud Computing Solutions</p>
-                                            <p>Html5 Software & App Developers</p>
-                                            <p>Expert IPAD App Developers</p>
-                                            <p>Product Engineering</p>
-                                            <p>Product Engineering</p>
+                                            <NuxtLink to="/" class="nav-link"><p>AI & ML</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Automation</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Cloud Strategy</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Digital Commerce</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Data & Analytics</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Technology Consulting</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     
@@ -73,200 +77,109 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/media.png" alt="image">
                                             Media
-                                            <!-- <p>Learn the basics with expert resources.</p> -->
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
                                         </NuxtLink>
                                     </li>
-                                    
+
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/staff-augmentation.png" alt="image">
-                                            Staff Augmentation
-                                            <!-- <p>Learn the basics with expert resources.</p> -->
-                                            <p>IT Consulting</p>
-                                            <p>Dedicated Development Teams</p>
-                                            <p>Software Testing & QA</p>
+                                            Custom Solutions
+                                            <NuxtLink to="/software-development" class="nav-link"><p>IT Consulting</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Advisory Services</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Development Teams</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Staff Augmentation</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Integration Services</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Implementation Services</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
 
                                 </ul>
                             </li>
 
-                            <!-- <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    Services <i class='bx bx-chevron-down'></i>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <NuxtLink to="/software-development" class="nav-link" exact>
-                                            Software Development
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/product-development" class="nav-link">
-                                            Product Development
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/web-development" class="nav-link">
-                                            Web Development
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/app-development" class="nav-link">
-                                            App Development
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/dedicated-development-teams" class="nav-link">
-                                            Dedicated Development Teams
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/product-engineering" class="nav-link">
-                                            Product Engineering
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/ui-and-ux-services" class="nav-link">
-                                            UI & UX Services
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/graphics-design" class="nav-link" exact>
-                                            Graphics Design
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/digital-marketing" class="nav-link" exact>
-                                            Digital Marketing
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/ecommerce" class="nav-link" exact>
-                                            eCommerce
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/branding" class="nav-link" exact>
-                                            Branding
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/website-seo-audit" class="nav-link" exact>
-                                            Website SEO Audit
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/it-consulting" class="nav-link">
-                                            IT Consulting
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/software-testing-and-qa" class="nav-link">
-                                            Software Testing & QA
-                                        </NuxtLink>
-                                    </li>
-                                </ul>
-                            </li> -->
-
                             <li class="nav-item megamenu">
                                 <a href="#" class="nav-link">
-                                    Product Expertise <i class='bx bx-chevron-down'></i>
+                                    Product Expertise<i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/bmc.svg" alt="image">
                                             BMC
-                                            <p>Learn the basics with expert resources.</p>
-                                            <!-- <p>Helix ITSM</p>
-                                            <p>Helix Remedyforce</p>
-                                            <p>Helix Discovery</p>
-                                            <p>TrueSight</p>
-                                            <p>Control-M</p>
-                                            <p>Smart Reporting</p>
-                                            <p>Client Management</p>
-                                            <p>BMC Helix DWP</p>
-                                            <p>BladeLogic</p> -->
+                                            <NuxtLink to="/" class="nav-link"><p>Helix ITSM</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>TrueSight</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Control-M</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>BladeLogic</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Smart Reporting</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Helix Discovery</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Helix Remedyforce</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Client Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Helix Digital Workplace</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/salesforce.svg" alt="image">
                                             Salesforce
-                                            <p>Learn the basics with expert resources.</p>
+                                            <NuxtLink to="/" class="nav-link"><p>Sales Cloud</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Service Cloud</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Commerce Cloud</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Marketing Cloud</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Community Cloud</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Integration Cloud</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/servicenow.svg" alt="image">
                                             ServiceNow
-                                            <p>Learn the basics with expert resources.</p>
+                                            <NuxtLink to="/" class="nav-link"><p>IT Workflows</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Audit Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>IT Service Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Knowledge Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>IT Asset Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Configuration Compliance</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/sap.svg" alt="image">
                                             SAP
-                                            <p>Learn the basics with expert resources.</p>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP HANA</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP CRM</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP ERP</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP HR</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP PLM</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP Business Objects</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/aws.svg" alt="image">
                                             AWS
-                                            <p>Learn the basics with expert resources.</p>
+                                            <NuxtLink to="/" class="nav-link"><p>AWS Consulting</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>AWS Cloud Security</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>AWS Cloud Migration</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Serverless Computing</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>AWS Market Enablement</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Managed Cloud Services</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/analytics.svg" alt="image">
                                             Analytics
-                                            <p>Learn the basics with expert resources.</p>
-                                        </NuxtLink>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    Technologies <i class='bx bx-chevron-down'></i>
-                                </a>
-
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <NuxtLink to="/expert-iphone-app-developers" class="nav-link" exact>
-                                            Expert iPhone App Developers
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/expert-android-app-developers" class="nav-link">
-                                            Expert Android App Developers
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/expert-windows-phone-app-developers" class="nav-link">
-                                            Expert Windows Phone App Developers
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/hybrid-app-development" class="nav-link">
-                                            Hybrid App Development
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/cloud-computing-solutions" class="nav-link">
-                                            Cloud Computing Solutions
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/html5-software-and-app-developers" class="nav-link">
-                                            Html5 Software & App Developers
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/expert-ipad-app-developers" class="nav-link">
-                                            Expert IPAD App Developers
+                                            <NuxtLink to="/" class="nav-link"><p>Powerbi</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Qlik Sense</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>QlikView</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Tableau</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>SAP Analytics</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                 </ul>
