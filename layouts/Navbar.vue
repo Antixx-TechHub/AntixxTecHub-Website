@@ -174,7 +174,7 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/analytics.svg" alt="image">
                                             Analytics
-                                            <NuxtLink to="/" class="nav-link"><p>Powerbi</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Power BI</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Qlik Sense</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>QlikView</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Tableau</p></NuxtLink>
@@ -229,7 +229,7 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/why-antixx-techhub-global" class="nav-link">Why Antixx TechHUb
+                                        <NuxtLink to="/why-antixx-techhub-global" class="nav-link">Why Antixx TechHub
                                             Global
                                         </NuxtLink>
                                     </li>
@@ -261,7 +261,7 @@
                                 <i class="bx bxs-hot"></i>Contact Us<span></span>
                             </NuxtLink>
                             <NuxtLink to="/log-in" class="optional-btn">
-                                <i class="bx bx-log-in"></i>Log In<span></span>
+                                <i class="bx bx-log-in"></i>Our Products<span></span>
                             </NuxtLink>
                         </div>
                     </b-collapse>
