@@ -9370,15 +9370,16 @@ Features Area CSS
     background-color: $white-color;
     border: 1px solid #E5E5E5;
     border-radius: 25px;
-    padding: 25px;
+    padding: 15px;
     transition: $transition;
 
     img {
+        margin-top: 15px;
         margin-bottom: 22px;
     }
 
     h3 {
-        font-size: 24px;
+        font-size: 18px;
         font-weight: 600;
         margin-bottom: 12px;
     }
@@ -12409,7 +12410,7 @@ Header Area CSS
 
                                     font: {
                                         weight: normal;
-                                        size: 13px;
+                                        size: 12px;
                                         weight: 500;
                                     }
 

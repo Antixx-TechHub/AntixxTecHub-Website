@@ -31,8 +31,8 @@
                                             <NuxtLink to="/" class="nav-link"><p>UI & UX Services</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Graphics Design</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Product Design</p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>App Design</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Website Design</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
 
@@ -45,7 +45,7 @@
                                             <NuxtLink to="/" class="nav-link"><p>Web Development</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>App Development</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Software Testing & QA</p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Technology Consulting</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
@@ -69,20 +69,20 @@
                                             <NuxtLink to="/" class="nav-link"><p>Cloud Strategy</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Digital Commerce</p></NuxtLink>
                                             <NuxtLink to="/" class="nav-link"><p>Data & Analytics</p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p>Technology Consulting</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Business Strategy</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
                                     
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/media.png" alt="image">
-                                            Media
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
-                                            <NuxtLink to="/" class="nav-link"><p></p></NuxtLink>
+                                            Big Data Solutions
+                                            <NuxtLink to="/" class="nav-link"><p>Big Data Integration</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Big Data Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Big Data Analytics</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Content Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>Cloud Management</p></NuxtLink>
+                                            <NuxtLink to="/" class="nav-link"><p>System Management</p></NuxtLink>
                                         </NuxtLink>
                                     </li>
 
