@@ -6,7 +6,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
                         <div class="logo">
-                            <NuxtLink to="/"><img src="~/assets/img/footer-logo.png" alt="image"></NuxtLink>
+                            <NuxtLink to="/"><img src="~/assets/img/icon/footer-logo.svg" alt="image" width="190" height="50"></NuxtLink>
                         </div>
                         <p>Antixx TechHub offers a range of tailor-made enterprise solutions to help businesses improve visibility, branding, efficiencies, productivity, quality, profitability, and customer relationship.</p>
                     </div>

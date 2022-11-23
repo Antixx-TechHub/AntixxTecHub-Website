@@ -5025,3 +5025,9 @@ $value_nine: 1550px;
     }
 
 }
+
+@media only screen and (max-width: 640px) {
+    .navbar-area .navbar .navbar-nav .nav-item.megamenu .dropdown-menu .nav-item {
+        width: 100%;
+    }
+}

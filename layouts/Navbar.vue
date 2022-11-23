@@ -4,8 +4,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <NuxtLink class="navbar-brand" to="/">
-                        <!-- <img src="~/assets/img/icon/logo.svg" alt="logo"> -->
-                        <img src="~/assets/img/logo.png" alt="logo">
+                        <img src="~/assets/img/icon/logo.svg" alt="logo" width="190" height="50">
                     </NuxtLink>
 
                     <b-navbar-toggle target="navbarSupportedContent">
@@ -16,13 +15,11 @@
 
                     <b-collapse class="collapse navbar-collapse" id="navbarSupportedContent" is-nav>
                         <ul class="navbar-nav">
-
                             <li class="nav-item megamenu">
                                 <a href="#" class="nav-link">
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
-
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/design.png" alt="image">
