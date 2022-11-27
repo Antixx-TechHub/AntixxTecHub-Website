@@ -55,6 +55,14 @@ $transition: .5s;
 
 :root {
     scroll-behavior: inherit;
+    --fontFamily: 'Titillium Web', sans-serif;
+    --fontFamily2: 'Cabin', sans-serif;
+    --mainColor: #029894;
+    --optionalColor: #6F76A8;
+    --whiteColor: #ffffff;
+    --blackColor: #09114A;
+    --fontSize: 16px;
+    --transition: .5s;
 }
 
 body {
@@ -12324,16 +12332,17 @@ Footer Area CSS
 Antixx TechHub Modern Nav Default CSS
 =================================================*/
 
-:root {
-    --fontFamily: 'Titillium Web', sans-serif;
-    --fontFamily2: 'Cabin', sans-serif;
-    --mainColor: #029894;
-    --optionalColor: #6F76A8;
-    --whiteColor: #ffffff;
-    --blackColor: #09114A;
-    --fontSize: 16px;
-    --transition: .5s;
-}
+// :root {
+//     scroll-behavior: inherit;
+//     --fontFamily: 'Titillium Web', sans-serif;
+//     --fontFamily2: 'Cabin', sans-serif;
+//     --mainColor: #029894;
+//     --optionalColor: #6F76A8;
+//     --whiteColor: #ffffff;
+//     --blackColor: #09114A;
+//     --fontSize: 16px;
+//     --transition: .5s;
+// }
 
 /*================================================
 Header Area CSS
