@@ -5,24 +5,21 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="me-about-content">
                         <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Nulla quis lorem ut libero malesuada feugiat quisque velit nisi pretium ut lacinia in elementum id enim curabitur arcu erat accumsan id imperdiet et porttitor at sem curabitur aliquet quam id dui posuere blandit.</p>
+                        <h3>Antixx TechHub -A Leading ITSM Managed Services Provider & Consultant</h3>
+                        <p>Our customer-friendly approach makes our strategic web, app, data, and other IT solutions more efficient to serve the intended purpose. We have the best IT Experts to complete the particular task in a defined time-line following the roust quality standards.</p>
                         <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
+                            <div class="col-lg-12 col-sm-12">
                                 <ul class="list">
-                                    <li><i class='bx bx-check'></i> First Step Planing</li>
-                                    <li class="color-two"><i class='bx bx-check'></i> Third Step Optimizing</li>
+                                    <li><i class='bx bx-check'></i> Understanding the requirements </li>
+                                    <li class="color-two"><i class='bx bx-check'></i> Analyzing the requirements and agile planning for solutions </li>
                                 </ul>
                             </div>
-                            <div class="col-lg-6 col-sm-6">
+                            <div class="col-lg-12 col-sm-12">
                                 <ul class="list">
-                                    <li class="color-three"><i class='bx bx-check'></i> Second Step Research</li>
-                                    <li class="color-four"><i class='bx bx-check'></i> Final Step Results</li>
+                                    <li class="color-three"><i class='bx bx-check'></i> Development, testing, fine-tuning the solutions</li>
+                                    <li class="color-four"><i class='bx bx-check'></i> Delivery, integration, and management support</li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More</NuxtLink>
                         </div>
                     </div>
                 </div>

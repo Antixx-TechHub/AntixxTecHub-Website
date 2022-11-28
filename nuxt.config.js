@@ -34,6 +34,7 @@ export default {
         { src: '~/plugins/vue-carousel', ssr: false },
         { src: '~/plugins/vue-cool-lightbox', ssr: false },
         { src: '~/plugins/vue-backtotop', ssr: false },
+        { src: '~/plugins/lottie-vue-player.client', ssr: false },
     ],
 
     // Globally configure <nuxt-link> default active class.

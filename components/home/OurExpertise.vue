@@ -2,8 +2,8 @@
     <div class="is-services-area ptb-100">
         <div class="container-fluid">
             <div class="section-title-with-large-box">
-                <span>Introduce our services</span>
-                <h2>Why your Businesses need Our Best services</h2>
+                <span>Introduce</span>
+                <h2>Our Product Expertise</h2>
             </div>
 
             <div class="is-services-slides">
@@ -17,113 +17,85 @@
                     <slide>
                         <div class="is-services-card">
                             <h3>
-                                <NuxtLink to="/single-service">Web Development</NuxtLink>
+                                <NuxtLink to="/">BMC</NuxtLink>
                             </h3>
                             <div class="is-services-image">
-                                <NuxtLink to="/single-service">
+                                <NuxtLink to="/bmc">
                                     <img src="~/assets/img/marketing-experts/services/services1.jpg" alt="image">
                                 </NuxtLink>
                             </div>
                             <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
+                            <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
                     <slide>
                         <div class="is-services-card">
                             <h3>
-                                <NuxtLink to="/single-service">App Development</NuxtLink>
+                                <NuxtLink to="/">Salesforce</NuxtLink>
                             </h3>
                             <div class="is-services-image">
-                                <NuxtLink to="/single-service">
+                                <NuxtLink to="/">
                                     <img src="~/assets/img/marketing-experts/services/services2.jpg" alt="image">
                                 </NuxtLink>
                             </div>
                             <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
+                            <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
                     <slide>
                         <div class="is-services-card">
                             <h3>
-                                <NuxtLink to="/single-service">Blockchain Development</NuxtLink>
+                                <NuxtLink to="/">ServiceNow</NuxtLink>
                             </h3>
                             <div class="is-services-image">
-                                <NuxtLink to="/single-service">
+                                <NuxtLink to="/">
                                     <img src="~/assets/img/marketing-experts/services/services3.jpg" alt="image">
                                 </NuxtLink>
                             </div>
                             <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
+                            <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
                     <slide>
                         <div class="is-services-card">
                             <h3>
-                                <NuxtLink to="/single-service">Branding and Marketing</NuxtLink>
+                                <NuxtLink to="/">SAP</NuxtLink>
                             </h3>
                             <div class="is-services-image">
-                                <NuxtLink to="/single-service">
+                                <NuxtLink to="/">
                                     <img src="~/assets/img/marketing-experts/services/services4.jpg" alt="image">
                                 </NuxtLink>
                             </div>
                             <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
+                            <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
                     <slide>
                         <div class="is-services-card">
                             <h3>
-                                <NuxtLink to="/single-service">Web Development</NuxtLink>
+                                <NuxtLink to="/">AWS</NuxtLink>
                             </h3>
                             <div class="is-services-image">
-                                <NuxtLink to="/single-service">
+                                <NuxtLink to="/">
                                     <img src="~/assets/img/marketing-experts/services/services1.jpg" alt="image">
                                 </NuxtLink>
                             </div>
                             <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
+                            <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
                     <slide>
                         <div class="is-services-card">
                             <h3>
-                                <NuxtLink to="/single-service">App Development</NuxtLink>
+                                <NuxtLink to="/">Analytics</NuxtLink>
                             </h3>
                             <div class="is-services-image">
-                                <NuxtLink to="/single-service">
+                                <NuxtLink to="/">
                                     <img src="~/assets/img/marketing-experts/services/services2.jpg" alt="image">
                                 </NuxtLink>
                             </div>
                             <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
-                        </div>
-                    </slide>
-                    <slide>
-                        <div class="is-services-card">
-                            <h3>
-                                <NuxtLink to="/single-service">Blockchain Development</NuxtLink>
-                            </h3>
-                            <div class="is-services-image">
-                                <NuxtLink to="/single-service">
-                                    <img src="~/assets/img/marketing-experts/services/services3.jpg" alt="image">
-                                </NuxtLink>
-                            </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
-                        </div>
-                    </slide>
-                    <slide>
-                        <div class="is-services-card">
-                            <h3>
-                                <NuxtLink to="/single-service">Branding and Marketing</NuxtLink>
-                            </h3>
-                            <div class="is-services-image">
-                                <NuxtLink to="/single-service">
-                                    <img src="~/assets/img/marketing-experts/services/services4.jpg" alt="image">
-                                </NuxtLink>
-                            </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
-                            <NuxtLink to="/single-service" class="default-btn">Learn More <span></span></NuxtLink>
+                            <NuxtLink to="/" class="default-btn">Know More <span></span></NuxtLink>
                         </div>
                     </slide>
                 </carousel>
