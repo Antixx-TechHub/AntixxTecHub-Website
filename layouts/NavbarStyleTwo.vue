@@ -4,7 +4,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <NuxtLink class="navbar-brand" to="/">
-                        <img src="~/assets/img/logo.png" alt="logo">
+                        <img src="~/assets/img/icon/logo.svg" alt="logo" width="190" height="50">
                     </NuxtLink>
 
                     <b-navbar-toggle target="navbarSupportedContent">
@@ -15,63 +15,36 @@
 
                     <b-collapse class="collapse navbar-collapse" id="navbarSupportedContent" is-nav>
                         <ul class="navbar-nav">
-
                             <li class="nav-item megamenu">
                                 <a href="#" class="nav-link">
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
-
-                                    <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
-                                            <img src="~/assets/img/icon/design.png" alt="image">
-                                            Design
-                                            <NuxtLink to="/visual-design" class="nav-link">
-                                                <p>Visual Design</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/web-app-design" class="nav-link">
-                                                <p>Web & App Design</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/product-design" class="nav-link">
-                                                <p>Product Design</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/logo-brand-identity" class="nav-link">
-                                                <p>Logo & Brand Identity</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/art-illustration" class="nav-link">
-                                                <p>Art & Illustration</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/packaging-covers" class="nav-link">
-                                                <p>Packaging & Covers</p>
-                                            </NuxtLink>
-                                        </NuxtLink>
-                                    </li>
-
-                                    <li class="nav-item">
+                                    <li class="nav-item-services">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/development.png" alt="image">
-                                            Development
+                                           Design & Development
+                                           <NuxtLink to="/branding" class="nav-link">
+                                                <p>Branding</p>
+                                            </NuxtLink>
+                                            <NuxtLink to="/graphics-design" class="nav-link">
+                                                <p>Graphics Design</p>
+                                            </NuxtLink>
                                             <NuxtLink to="/software-development" class="nav-link">
                                                 <p>Software Development</p>
                                             </NuxtLink>
+                                            <NuxtLink to="/web-design-development" class="nav-link">
+                                                <p>Web Design & Development</p>
+                                            </NuxtLink>
                                             <NuxtLink to="/product-development" class="nav-link">
-                                                <p>Product Development</p>
+                                                <p>eCommerce Development</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/web-development" class="nav-link">
-                                                <p>Web Development</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/app-development" class="nav-link">
-                                                <p>App Development</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/software-testing-and-qa" class="nav-link">
-                                                <p>Software Testing & QA</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/technology-consulting" class="nav-link">
-                                                <p>Technology Consulting</p>
+                                            <NuxtLink to="/mobile-app-development" class="nav-link">
+                                                <p>Mobile App Development</p>
                                             </NuxtLink>
                                         </NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <li class="nav-item-services">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/marketing.png" alt="image">
                                             Online marketing
@@ -81,21 +54,12 @@
                                             <NuxtLink to="/digital-marketing" class="nav-link">
                                                 <p>Digital Marketing</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/content-marketing" class="nav-link">
-                                                <p>Content Marketing</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/email-marketing" class="nav-link">
-                                                <p>Email Marketing</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/mobile-marketing" class="nav-link">
-                                                <p>Mobile Marketing</p>
-                                            </NuxtLink>
                                             <NuxtLink to="/website-seo-audit" class="nav-link">
                                                 <p>Website SEO Audit</p>
                                             </NuxtLink>
                                         </NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <li class="nav-item-services">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/technologies.png" alt="image">
                                             Technologies
@@ -120,43 +84,15 @@
                                         </NuxtLink>
                                     </li>
 
-                                    <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
-                                            <img src="~/assets/img/icon/big-data.png" alt="image">
-                                            Big Data Solutions
-                                            <NuxtLink to="/big-data-integration" class="nav-link">
-                                                <p>Big Data Integration</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/big-data-management" class="nav-link">
-                                                <p>Big Data Management</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/big-data-analytics" class="nav-link">
-                                                <p>Big Data Analytics</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/content-management" class="nav-link">
-                                                <p>Content Management</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/cloud-management" class="nav-link">
-                                                <p>Cloud Management</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/system-management" class="nav-link">
-                                                <p>System Management</p>
-                                            </NuxtLink>
-                                        </NuxtLink>
-                                    </li>
-
-                                    <li class="nav-item">
+                                    <li class="nav-item-services">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/staff-augmentation.png" alt="image">
                                             Custom Solutions
                                             <NuxtLink to="/it-consulting" class="nav-link">
                                                 <p>IT Consulting</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/advisory-services" class="nav-link">
-                                                <p>Advisory Services</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/development-teams" class="nav-link">
-                                                <p>Development Teams</p>
+                                            <NuxtLink to="/big-data-solutions" class="nav-link">
+                                                <p>Big Data Solutions</p>
                                             </NuxtLink>
                                             <NuxtLink to="/staff-augmentation" class="nav-link">
                                                 <p>Staff Augmentation</p>
@@ -166,6 +102,9 @@
                                             </NuxtLink>
                                             <NuxtLink to="/implementation-services" class="nav-link">
                                                 <p>Implementation Services</p>
+                                            </NuxtLink>
+                                            <NuxtLink to="/software-testing-and-qa" class="nav-link">
+                                                <p>Software Testing & QA</p>
                                             </NuxtLink>
                                         </NuxtLink>
                                     </li>
@@ -400,8 +339,8 @@
                             <NuxtLink to="/contact-us" class="default-btn">
                                 <i class="bx bxs-hot"></i>Contact Us<span></span>
                             </NuxtLink>
-                            <NuxtLink to="/our-products" class="default-btn black-btn">
-                                <i class="bx bx-log-in"></i>Our Products<span></span>
+                            <NuxtLink to="/our-products" class="optional-btn">
+                                <i class="bx bx-log-in"></i>Get Free Demo<span></span>
                             </NuxtLink>
                         </div>
                     </b-collapse>

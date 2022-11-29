@@ -80,7 +80,7 @@
                                     <img src="~/assets/img/marketing-experts/services/services1.jpg" alt="image">
                                 </NuxtLink>
                             </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
+                            <p>We offer the best-class services and consulting for AWS Migration; AWS Cloud Security; AWS Serverless Computing; AWS Market Enablement, Cloud managed services...</p>
                             <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
@@ -94,7 +94,7 @@
                                     <img src="~/assets/img/marketing-experts/services/services2.jpg" alt="image">
                                 </NuxtLink>
                             </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
+                            <p>As a Big Data analytics solutions provider and Big Data consultant, we provide Big Data analytics managed services & Big Data consulting...</p>
                             <NuxtLink to="/" class="default-btn">Know More <span></span></NuxtLink>
                         </div>
                     </slide>

@@ -116,7 +116,7 @@
                             <slide>
                                 <div>
                                     <img src="~/assets/img/banner-slider/banner-img1.gif"
-                                        style="width:600px; height:100%" alt="img">
+                                        style="width:600px; height:100% margin-top:20%" alt="img">
                                 </div>
                                 <!-- <div id="MainBanner">
         <lottie-vue-player :src="`https://assets10.lottiefiles.com/packages/lf20_tzjfwgud.json`"

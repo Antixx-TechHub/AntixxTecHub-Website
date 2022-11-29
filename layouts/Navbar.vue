@@ -24,22 +24,22 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/development.png" alt="image">
                                            Design & Development
-                                           <NuxtLink to="/visual-design" class="nav-link">
+                                           <NuxtLink to="/branding" class="nav-link">
                                                 <p>Branding</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/visual-design" class="nav-link">
+                                            <NuxtLink to="/graphics-design" class="nav-link">
                                                 <p>Graphics Design</p>
                                             </NuxtLink>
                                             <NuxtLink to="/software-development" class="nav-link">
                                                 <p>Software Development</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/web-development" class="nav-link">
+                                            <NuxtLink to="/web-design-development" class="nav-link">
                                                 <p>Web Design & Development</p>
                                             </NuxtLink>
                                             <NuxtLink to="/product-development" class="nav-link">
                                                 <p>eCommerce Development</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/app-development" class="nav-link">
+                                            <NuxtLink to="/mobile-app-development" class="nav-link">
                                                 <p>Mobile App Development</p>
                                             </NuxtLink>
                                         </NuxtLink>
@@ -91,11 +91,8 @@
                                             <NuxtLink to="/it-consulting" class="nav-link">
                                                 <p>IT Consulting</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/big-data-integration" class="nav-link">
+                                            <NuxtLink to="/big-data-solutions" class="nav-link">
                                                 <p>Big Data Solutions</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/advisory-services" class="nav-link">
-                                                <p>Advisory Services</p>
                                             </NuxtLink>
                                             <NuxtLink to="/staff-augmentation" class="nav-link">
                                                 <p>Staff Augmentation</p>
