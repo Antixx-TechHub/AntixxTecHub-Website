@@ -2129,7 +2129,7 @@ About Area CSS
     ;
 
     .content {
-        max-width: 455px;
+        max-width: 100%;
 
         h2 {
             margin-bottom: 0;
@@ -12513,7 +12513,7 @@ Header Area CSS
                     position: unset;
 
                     .dropdown-menu {
-                        width: 100%;
+                        width: 1100px;
                         display: flex;
                         flex-wrap: wrap;
                         text-align: center;
@@ -12574,50 +12574,67 @@ Header Area CSS
                                 }
                             }
                         }
+                        
+                        .nav-item-services {
+                            flex: 0 0 auto;
+                            width: 25%;
+                            border-right: 1px solid #eeeeee;
+                            margin: 0;
+
+                            .nav-link {
+                                padding: 5px 5px !important;
+                                color: var(--blackColor);
+                                display: block;
+                                margin: 0 !important;
+
+                                font: {
+                                    size: 16px;
+                                    weight: 600;
+                                }
+
+                                ;
+
+                                img {
+                                    transition: var(--transition);
+                                    display: block;
+                                    height: 50px;
+
+                                    margin: {
+                                        left: auto;
+                                        right: auto;
+                                        bottom: 15px;
+                                        top: 15px;
+                                    }
+
+                                    ;
+                                }
+
+                                p {
+                                    margin-top: 8px;
+                                    line-height: 1.7;
+                                    text-align: left;
+
+                                    font: {
+                                        weight: normal;
+                                        size: 13px;
+                                        weight: 500;
+                                    }
+
+                                    ;
+                                }
+
+                                &:hover {
+                                    img {
+                                        transform: scale(.9);
+                                    }
+                                }
+                            }
+                        }
+
                     }
                 }
             }
         }
-
-        // .others-option {
-        //     margin-left: auto;
-
-        //     .default-btn {
-        //         color: #DC84FC;
-        //         background-color: rgba(220, 132, 252, .15);
-        //         font-weight: normal;
-        //         border: 1px solid rgba(220, 132, 252, .40) !important;
-
-        //         padding: {
-        //             top: 11px;
-        //             left: 55px;
-        //             right: 35px;
-        //             bottom: 11px;
-        //         }
-
-        //         ;
-
-        //         span {
-        //             left: 25px;
-        //             right: auto;
-        //             font-size: 20px;
-        //             color: #DC84FC;
-        //             margin-top: -1px;
-        //         }
-
-        //         &:hover {
-        //             background-color: #DC84FC;
-        //             border-color: #DC84FC;
-        //             color: var(--whiteColor);
-        //             opacity: 1;
-
-        //             span {
-        //                 color: var(--whiteColor);
-        //                 opacity: 1;
-        //             }
-        //         }
-        //     }
-        // }
     }
 
     .others-option-two {

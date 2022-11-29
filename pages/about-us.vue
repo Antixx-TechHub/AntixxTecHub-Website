@@ -4,14 +4,10 @@
         <PageTitle pageTitle="About Us" pageDesc="Lorem Ipsum" />
         <Expertise />
         <WhyChooseUs />
-        <PageAbout />
         <Features />
         <About />
-        <Featured />
-        <CaseStudies />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
+        <PageAbout />
+        <Despite />
         <Faq />
         <BestSupport />
         <FreeTrial />
@@ -24,14 +20,10 @@ import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/about-us/PageTitle'
 import Expertise from '../components/about-us/Expertise';;
 import WhyChooseUs from '../components/about-us/WhyChooseUs';
-import PageAbout from '../components/about-us/PageAbout';
 import Features from '../components/about-us/Features';
-import TheBestInnovative from '../components/about-us/TheBestInnovative';
-import ConnectionsYourCustomers from '../components/about-us/ConnectionsYourCustomers';
 import About from '../components/about-us/About';
-import CaseStudies from '../components/about-us/CaseStudies';
-import Featured from '../components/about-us/Featured';
-import PageFeature from '../components/about-us/PageFeature';
+import PageAbout from '../components/about-us/PageAbout';
+import Despite from '../components/about-us/Despite';
 import Faq from '../components/about-us/Faq';
 import BestSupport from '../components/about-us/BestSupport';
 import FreeTrial from '../components/about-us/FreeTrial';
@@ -40,17 +32,13 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 export default {
     components: {
         NavbarStyleTwo,
-        Expertise,
         PageTitle,
+        Expertise,
         WhyChooseUs,
-        PageAbout,
         Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
         About,
-        PageFeature,
-        CaseStudies,
-        Featured,
+        PageAbout,
+        Despite,
         Faq,
         BestSupport,
         FreeTrial,

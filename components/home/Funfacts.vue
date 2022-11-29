@@ -7,7 +7,7 @@
                         <div class="sm-single-funfacts">
                             <i class="bx bx-list-check"></i>
                             <h3>800+</h3>
-                            <p>Completed Projects</p>
+                            <p>Projects Delivered Successfully</p>
                         </div>
                     </div>
 
@@ -15,7 +15,7 @@
                         <div class="sm-single-funfacts">
                             <i class="bx bx-smile"></i>
                             <h3>999+</h3>
-                            <p>Happy Clients</p>
+                            <p>Satisfied Clients</p>
                         </div>
                     </div>
 
@@ -23,7 +23,7 @@
                         <div class="sm-single-funfacts">
                             <i class="bx bx-grid-small"></i>
                             <h3>120+</h3>
-                            <p>Ongoing Projects</p>
+                            <p>Projects in Progress</p>
                         </div>
                     </div>
 
@@ -31,7 +31,7 @@
                         <div class="sm-single-funfacts">
                             <i class="bx bxs-award"></i>
                             <h3>70+</h3>
-                            <p>Winning Awards</p>
+                            <p>Remarkable Achievements</p>
                         </div>
                     </div>
                 </div>

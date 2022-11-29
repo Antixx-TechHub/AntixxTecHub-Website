@@ -24,7 +24,7 @@
                                     <img src="~/assets/img/marketing-experts/services/services1.jpg" alt="image">
                                 </NuxtLink>
                             </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
+                            <p>Integration of BMC products- BMC TrueSight management; BMC Smart Reporting; BMC Helix Discovery; BMC Helix ITSM; BMC Control-M  Helix...</p>
                             <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
@@ -38,7 +38,7 @@
                                     <img src="~/assets/img/marketing-experts/services/services2.jpg" alt="image">
                                 </NuxtLink>
                             </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
+                            <p>Customized integration of Sales Cloud; Service Cloud; Marketing Cloud; Integration Cloud; Commerce Cloud; Community Cloud...</p>
                             <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
@@ -52,7 +52,7 @@
                                     <img src="~/assets/img/marketing-experts/services/services3.jpg" alt="image">
                                 </NuxtLink>
                             </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
+                            <p>Expertise in configuration & integration of ServiceNow ITSM; workflows; Employee Service Management; Knowledge Management; Compliance...</p>
                             <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
@@ -66,7 +66,7 @@
                                     <img src="~/assets/img/marketing-experts/services/services4.jpg" alt="image">
                                 </NuxtLink>
                             </div>
-                            <p>Pellentesque in ipsum id orci porta dapibus nulla quis ut libero malesuada feugiat donec sollicitudin molestie malesuada.</p>
+                            <p>Consultancy & integration for HANA; SAP ERP; CRM; SAP Business Objects; SAP Product Lifecycle; SAP HCM; SAP Commerce Cloud...</p>
                             <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
                         </div>
                     </slide>
