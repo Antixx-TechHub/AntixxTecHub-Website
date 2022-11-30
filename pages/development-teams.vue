@@ -2,15 +2,15 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Dedicated Development Teams" pageDesc="Lorem Ipsum" />
+        <About />
+        <MoreToDiscover />
         <AmazingFeatures />
         <ServicesOne />
         <Services />
-        <MoreToDiscover />
         <YourApplication class="pt-0" />
         <TheAbilityToElicit />
         <WhyChooseUs />
         <Features />
-        <About />
         <PageAbout />
         <CaseStudies />
         <Featured />

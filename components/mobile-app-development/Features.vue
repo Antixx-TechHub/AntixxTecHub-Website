@@ -7,10 +7,9 @@
                         <div class="number">
                             <span>01</span>
                         </div>
-                        <h3>
-                            <NuxtLink to="/single-service">Data Analysis</NuxtLink>
+                        <h3>Native mobile Apps
                         </h3>
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus praesent sapien massa convallis a pellentesque.</p>
+                        <p>Apps designed for a specific operating system like Android, iOS, or Windows </p>
                         <div class="icon">
                             <i class="bx bx-customize"></i>
                         </div>
@@ -22,10 +21,8 @@
                         <div class="number">
                             <span>02</span>
                         </div>
-                        <h3>
-                            <NuxtLink to="/single-service">PPC Marketing</NuxtLink>
-                        </h3>
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus praesent sapien massa convallis a pellentesque.</p>
+                        <h3>Web Apps</h3>
+                        <p>Apps designed to be distributed through business website using a browser interface</p>
                         <div class="icon">
                             <i class="bx bx-slider-alt"></i>
                         </div>
@@ -37,10 +34,8 @@
                         <div class="number">
                             <span>03</span>
                         </div>
-                        <h3>
-                            <NuxtLink to="/single-service">Business Analytics</NuxtLink>
-                        </h3>
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus praesent sapien massa convallis a pellentesque.</p>
+                        <h3>Hybrid Apps</h3>
+                        <p>Apps designed to deliver combined benefits of native and web apps</p>
                         <div class="icon">
                             <i class="bx bx-reset"></i>
                         </div>

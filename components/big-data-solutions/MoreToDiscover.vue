@@ -2,8 +2,10 @@
     <div class="ptb-100 bg-f4f6fc">
         <div class="container">
             <div class="section-title">
-                <h2 class="mb-2">More to Discover</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <h2 class="mb-2">What is Big Data? Big Data Analytics Characteristics</h2>
+                <p>Big Data is the real-time comprehensive data sets built over the information collected from different
+                    streams including transactions, IoT (Internet of Things), videos, comments, social media, in-house
+                    processes, performance in digital marketplace, etc.</p>
             </div>
         </div>
 
@@ -18,32 +20,34 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">01</span>
-                            <h3>Getting Started Page</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+                            <p>The three characteristics of big data that make having the Cloud-based Big Data analytics
+                                support imperative for any business are- volume, variety, and velocity. The Big Data
+                                volume depends upon the speed at which the intended information is collected and
+                                processed. The Big Data variety is the diversity in the used sources, targeted devices
+                                and collected information. Big Data velocity denotes how fast information is being
+                                extracted for the particular purpose.</p>
+                            <p>The volumetric, extensive, and complex data-based information is impossible to be
+                                extracted for a particular objective by using conventional methods. The growth-oriented
+                                businesses are using strategically maintained and functional database up to its full
+                                potential to allow the managed users-community access the desired information swiftly at
+                                their own. The Big Data solutions hire high numbers of customers to resolve their issues
+                                through text-based communication or automated voice; quick response to concern
+                                strengthens consumers’ trust for the brand. For being a leading Big Data Analytics
+                                service support providers, we expand usability of:</p>
                             <ul>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Unique Design
+                                    Structured Data
                                 </li>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
+                                    Semi-structured Data
                                 </li>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
+                                    Unstructured Data
                                 </li>
                             </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -55,89 +59,20 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">02</span>
-                            <h3>Outdated Comments Toggling</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                            <ul>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Mordan Design
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Outdated Comments
-                                </li>
-                            </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
+                            <h3>Big Data Services We Offer As #1 Big Data Consultant & Service Provider:</h3>
+                            <p>Antixx TechHub provides objective-oriented big data consultancy and tailored-to-need
+                                solutions to help businesses utilize the collected volumetric raw data for getting
+                                actionable insights. Our objective-oriented big data solutions make you experience
+                                exponential improvement in workflows, quality management, delivery period, cost
+                                reduction, growth, profitability, etc. As the best reliable Big Data Analytics solutions
+                                company, Antixx TechHub has all the expertise for the best quality data management at
+                                zero risk level. Our Big Data analytics solutions and service support include:</p>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-right-img">
                             <img src="~/assets/img/home-saas/feature3.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="overview-item">
-            <div class="container max-width-1290">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="overview-left-img">
-                            <img src="~/assets/img/home-saas/feature4.png" alt="image">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-6">
-                        <div class="overview-content pl-3">
-                            <span class="number">03</span>
-                            <h3>Code Review Illustrations</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                            <ul>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Professional Code
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Start Coding Format
-                                </li>
-                            </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
                         </div>
                     </div>
                 </div>

@@ -4,11 +4,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
+                        <span>Antixx TechHub</span>
+                        <p>Antixx TechHub is a pioneer website design and web development company with years of experience in helping businesses to showcase their products and services with a distinction in the digital marketplace. As being the leading IT services company, we have a dependable team of dedicated in-house full-stack web designers and website developers who understand your business objectives and requirements to deliver the best-suited website to keep your business in highlight in digital marketplace in 2023-year and ahead.</p>
+                            <div class="about-btn">
                             <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
                         </div>
                     </div>

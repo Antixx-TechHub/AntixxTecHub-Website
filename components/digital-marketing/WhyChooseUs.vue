@@ -4,50 +4,38 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="me-choose-content">
-                        <h3>Hire Antixx TechHub for Digital Marketing Services: The Benefits</h3>
-                        <p>As one of the top digital marketing companies, Antixx TechHub has proven capabilities and
-                            expertise to support businesses achieve their marketing goals. Because of years of
-                            experience in providing turnkey support for businesses to stay competitive in the digital
-                            marketplace, we at Antixx TechHub have an in-depth understanding of the marketing needs of
-                            businesses in different sectors. When you hire Antixx TechHub for digital marketing service
-                            support, you can be sure of getting the maximum benefits of digital marketing-</p>
+                        <h3>Digital Marketing Experts You Can Rely On</h3>
+                        <p>Antixx TechHub has a dependable team of highly trained and experienced digital marketing experts who have proven their expertise in implementing innovative digital marketing practices. Our digital marketing practices, planned based on the deep analytical analysis reports, start delivering expected results within shorter period. The numbers of reasons you can rely digital marketing specialists at Antixx TechHub include:</p>
 
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>1. Increases customer loyalty</h4>
+                            <h4>Experience and expertise</h4>
                         </div>
-                        <div class="choose-inner-card bg-two">
+                                <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>2. Increases customer engagement</h4>
+                            <h4>Updated knowledge of branding and PR</h4>
                         </div>
-                        <div class="choose-inner-card bg-three">
+                                <div class="choose-inner-card bg-three">
                             <i class='bx bx-check'></i>
-                            <h4>3. Reduces overall marketing cost </h4>
+                            <h4>Turnkey support for digital marketing</h4>
                         </div>
-                        <div class="choose-inner-card">
+                                <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>4. Allows to target ideal customers segment</h4>
+                            <h4>Excellent capabilities for copywriting and ad development</h4>
                         </div>
-                        <div class="choose-inner-card bg-two">
+                                <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>5. Allows to reach potential buyers at the start of the journey </h4>
+                            <h4>Task-specific dedicated experts</h4>
                         </div>
-                        <div class="choose-inner-card bg-three">
+                                <div class="choose-inner-card bg-three">
                             <i class='bx bx-check'></i>
-                            <h4>6. Generates leads by working 24x7 hours</h4>
+                            <h4>Regular reporting with transparency</h4>
                         </div>
-                        <div class="choose-inner-card">
+                                <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>7. Increases conversion rate </h4>
+                            <h4>Flexible approach to launch digital marketing campaigns</h4>
                         </div>
-                        <div class="choose-inner-card bg-two">
-                            <i class='bx bx-check'></i>
-                            <h4>8. Scalability of results guides for improvement in marketing strategy</h4>
-                        </div>
-                        <div class="choose-inner-card bg-three">
-                            <i class='bx bx-check'></i>
-                            <h4>9. Improves brand credibility… others</h4>
-                        </div>
+                        <p>When you choose Antixx TechHub as your digital marketing services provider agency, we take it as a challenge to strengthen the online presence of your business on all the popular social media platforms, paid marketing platforms, free marketing platforms, and other interactive mediums.</p>
                     </div>
                 </div>
 

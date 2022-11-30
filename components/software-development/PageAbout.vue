@@ -2,8 +2,6 @@
     <div class="about-area">
         <div class="container">
             <div class="section-title text-left">
-                <span class="sub-title">About Us</span>
-                <h2>We Are A Strategic Digital Marketing Agency</h2>
             </div>
         </div>
 
@@ -19,12 +17,16 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="about-inner-content">
                             <div class="content">
-                                <h2>We Can Build Strategy That Would Make a Big Difference</h2>
+                <h3>Why Hire Antixx Techhub for Software & App Solution Development</h3>
                                 <ul class="features-list">
-                                    <li><i class='bx bx-check'></i> Complete Marketing Solutions</li>
-                                    <li><i class='bx bx-check'></i> Flexible Working Hours</li>
-                                    <li><i class='bx bx-check'></i> Experienced Team Members</li>
-                                    <li><i class='bx bx-check'></i> Outstanding Digital Experience</li>
+                                    <li><i class='bx bx-check'></i>Transparency</li>
+                                    <li><i class='bx bx-check'></i>Competitive pricing</li>
+                                    <li><i class='bx bx-check'></i>Agile approach</li>
+                                    <li><i class='bx bx-check'></i>The best skills for particular technology and tool</li>
+                                    <li><i class='bx bx-check'></i>Dedicated project development leader</li>
+                                    <li><i class='bx bx-check'></i>99% on the time project completion</li>
+                                    <li><i class='bx bx-check'></i>Global exposure with knowledge of the latest trends</li>
+                                    <li><i class='bx bx-check'></i>Comprehensive post-integration support</li>
                                 </ul>
                             </div>
                         </div>

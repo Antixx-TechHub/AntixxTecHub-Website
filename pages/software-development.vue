@@ -2,24 +2,14 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Software Development" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <MoreToDiscover />
+        <ServicesOne />
         <PageFeature />
-        <Expertise />
-        <Faq />
-        <Pricing />
+        <WhyChooseUs />
+        <PageAbout />
+        <!-- <Faq /> -->
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -30,7 +20,7 @@
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/software-development/PageTitle';
 import AmazingFeatures from '../components/software-development/AmazingFeatures';
-import ServicesOne from '../components/services-two/ServicesOne'
+import ServicesOne from '../components/software-development/ServicesOne'
 import MoreToDiscover from '../components/software-development/MoreToDiscover';
 import Services from '../components/software-development/Services';
 import YourApplication from '../components/software-development/YourApplication';

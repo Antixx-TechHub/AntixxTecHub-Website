@@ -1,31 +1,77 @@
 <template>
-    <div class="featured-area pt-100 pb-70">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-featured-box">
-                        <img src="~/assets/img/marketing-agency/featured-img1.jpg" alt="image">
-                        <h3>Marketing Campaigns & Content Creation</h3>
-                        <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
-                        <a href="#" class="link-btn"></a>
+    <div class="services-area bg-right-shape ptb-100">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="services-content it-service-content">
+                    <div class="content left-content">
+                        <div class="icon">
+                            <img src="~/assets/img/icon1.png" alt="image">
+                        </div>
+                        <h2>We Follow The Robust Mobile App Testing Procedure</h2>
+                        <p>To ensure the performance of a developed mobile app, our mobile app developers pass the
+                            developed mobile app to the specialist mobile app testers. We have a dedicated team of
+                            mobile app testers with certified skills in different technologies. Each mobile app, we
+                            create, goes through the robust testing phases like:</p>
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Database Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Functionality Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Compatibility Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Usability Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Crowd Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Interface Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Performance Testing
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Security Testing
+                                </div>
+                            </div>
+                        </div>
+                        <p>To ensure quality and performance, our mobile app testers use a range of advanced mobile app
+                            testing tools like User Zoom, Coded UI, BrowserStack, Selendroid, Apteligent, Google
+                            Nogotofail, SQL Map, etc.</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-featured-box">
-                        <img src="~/assets/img/marketing-agency/featured-img2.jpg" alt="image">
-                        <h3>LInk Building & Local Search Strategy</h3>
-                        <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
-                        <a href="#" class="link-btn"></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
-                    <div class="single-featured-box">
-                        <img src="~/assets/img/marketing-agency/featured-img3.jpg" alt="image">
-                        <h3>Search Optimization & Paid Advertising</h3>
-                        <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
-                        <a href="#" class="link-btn"></a>
+                <div class="services-image">
+                    <div class="image">
+                        <img src="~/assets/img/services-image/service1.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -35,6 +81,6 @@
 
 <script>
 export default {
-    name: 'Featured'
+    name: 'MobileDevelopment'
 }
 </script>

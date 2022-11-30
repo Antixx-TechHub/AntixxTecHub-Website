@@ -2,23 +2,12 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Digital Marketing" pageDesc="Lorem Ipsum" />
-        <Featured />
-        <MoreToDiscover />
-        <AmazingFeatures />
-        <WhyChooseUs />
-        <PageAbout />
-        <ServicesOne />
-        <Services />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <Features />
         <About />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
-        <Expertise />
+        <MoreToDiscover />
+        <ServicesOne />
+        <WhyChooseUs />
         <Faq />
-        <Pricing />
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

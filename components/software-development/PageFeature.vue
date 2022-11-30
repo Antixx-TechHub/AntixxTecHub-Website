@@ -3,71 +3,64 @@
         <div class="container">
             <div class="section-title-with-large-box d-flex align-items-center justify-content-between">
                 <div class="max-width">
-                    <span>Case Studies</span>
-                    <h2>Check Of Our Some Recent Works & Case Studies</h2>
+                    <h2>Technology and Tools We Use</h2>
+                    <p>As one of the top software development companies in India, we have the best skill pool with expertise in all the most used software development technologies and tools. We choose the languages and frameworks according to the nature and analyzed requirements of particular project. The top software development technologies and tools we use with utmost perfection are:</p>
                 </div>
-                <a href="#" class="default-btn">View All Case Studies <span></span></a>
             </div>
 
             <div class="is-case-studies-list-tabs">
                 <b-tabs pills card vertical>
-                    <b-tab title="Google Search Engine Marketing" active>
+                    <b-tab title="Languages" active>
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>C#; C/C++; Objective C; Python; Groovy; Swift; Kotlin; PHP; Rust; Scala…</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Content SEO marketing">
+                    <b-tab title="Frameworks">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies2.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>JDBC / JPA; JMS; Hibernate; .NET; EJB; Apache Camel; Nodejs; Firebase; LDAP / Active Directory; Reactive…</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Content digital marketing">
+                    <b-tab title="Database Management Software Development">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies3.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>MySQL; Oracle SQL; PostgreSQL; Microsoft SQL…</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Analysis of New Product">
+                    <b-tab title="Cloud Solutions">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies4.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Amazon Web Services (AWS); Google Cloud; Oracle Cloud; IBM Cloud; Microsoft Azure…</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Return on Investment">
+                    <b-tab title="Web App Solutions">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies5.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Vue; Sass; Coffee; Angular; WebGL…</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Built web faster & better">
+                    <b-tab title="Mobile app solutions development">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>HTML5; React; Xamarin; JavaScript…</p>
                             </div>
                         </div>
                     </b-tab>

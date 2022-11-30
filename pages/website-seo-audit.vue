@@ -2,24 +2,15 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Website SEO Audit" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
         <Expertise />
-        <Faq />
-        <Pricing />
+        <WhyChooseUs />
+        <Services />
+        <ServicesOne />
+        <AmazingFeatures />
+        <MoreToDiscover />
+        <!-- <Faq /> -->
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

@@ -2,8 +2,8 @@
     <div class="ptb-100 bg-f4f6fc">
         <div class="container">
             <div class="section-title">
-                <h2 class="mb-2">More to Discover</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <h2 class="mb-2">Software Application Development Services</h2>
+                <p>Over the years, we have developed numbers of objective-oriented software products proving our technical expertise in the design and development of IT products. Our application-ready software applications meet the particular budget, timeline, and use case.</p>
             </div>
         </div>
 
@@ -18,32 +18,8 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">01</span>
-                            <h3>Getting Started Page</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                            <ul>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Unique Design
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
-                                </li>
-                            </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
+                            <h3>Antixx TechHub – Custom IoT Solutions Specialist Company</h3>
+                            <p>Our the best trained and experienced IoT app developers provide client-centric services from conceptualization to IoT development to successful delivery to integration. As a full-stack IoT solutions development company, we create and develop custom IoT applications to meet the particular objectives of our clients. IoT development services are planned and administered following the robust security measures to keep all your processes secured.</p>
                         </div>
                     </div>
                 </div>
@@ -55,89 +31,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">02</span>
-                            <h3>Outdated Comments Toggling</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                            <ul>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Mordan Design
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Outdated Comments
-                                </li>
-                            </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
+                            <h3>What We Offer as a Top Software Development Agency</h3>
+                            <p>Leverage our years of experience and expertise in customized enterprise software development, updating legacy systems, API integration, and managing app portfolios. We help enterprises to achieve long-lasting success in the competitive global marketplace by developing and re-engineering software solutions to improve the performance, quality, and profitability. As a leading software development specialist agency, we offer:</p>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-right-img">
                             <img src="~/assets/img/home-saas/feature3.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="overview-item">
-            <div class="container max-width-1290">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="overview-left-img">
-                            <img src="~/assets/img/home-saas/feature4.png" alt="image">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-6">
-                        <div class="overview-content pl-3">
-                            <span class="number">03</span>
-                            <h3>Code Review Illustrations</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                            <ul>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Professional Code
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
-                                </li>
-                                <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Start Coding Format
-                                </li>
-                            </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
                         </div>
                     </div>
                 </div>

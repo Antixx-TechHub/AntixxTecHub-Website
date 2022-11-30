@@ -2,24 +2,15 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="SEO SMM" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <MoreToDiscover />
         <PageFeature />
-        <Expertise />
+        <WhyChooseUs />
+        <TheBestInnovative />
+        <ConnectionsYourCustomers />
+        <PageAbout />
         <Faq />
-        <Pricing />
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

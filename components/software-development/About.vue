@@ -4,13 +4,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span>Software Development & Consulting Services for Startups to Fortune 500</span>
+                        <h3>We offer custom software development services you can rely for technical excellence.</h3>
+                        <p>We at Antixx TechHub transform businesses by creating powerful and adaptable digital solutions in line of challenges of competitive marketplace. Tailored-to-need software development service support helps you achieve the intended goals while keeping you stay competitive for future. The years of experience in software development and the in-house availability of the industry-best software developers make sure you get the best worth of your investment and the trust in Antixx TechHub for software development.</p>
                     </div>
                 </div>
 

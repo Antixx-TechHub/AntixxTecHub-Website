@@ -2,24 +2,18 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Mobile App Development" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
+        <MoreToDiscover />
+        <Features />
+        <ServicesOne />
+        <YourApplication class="pt-0" />
+        <Services />
+        <WhyChooseUs />
         <PageAbout />
-        <CaseStudies />
         <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
         <Expertise />
         <Faq />
-        <Pricing />
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

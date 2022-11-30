@@ -4,13 +4,14 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span>Antixx TechHub</span>
+                        <h3>Big Data Analytics Solutions Provider And Consultancy Company</h3>
+                        <p>Making informed decision based on real-time data-driven insights has become imperative for
+                            businesses to explore, extract, refine, and remodel the database. The professionally
+                            developed Big Data analytics solutions help team leaders and key decision makers to decide
+                            proactively in line of requirements to hit the goals. We at Antixx TechHub offer
+                            tailored-to-need Big Data analytics solutions as well as Big Data consulting services to
+                            help you compete and perform better at various operational stages. </p>
                     </div>
                 </div>
 

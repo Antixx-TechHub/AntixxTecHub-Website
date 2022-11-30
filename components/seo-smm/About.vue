@@ -4,13 +4,14 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span>Antixx TechHub</span>
+                        <h3>An SEO Company You Can Rely On</h3>
+                        <p>Search Engine Optimization (SEO) is a set of rules for optimizing the websites to get a
+                            higher rank in organic Search Engine Results Pages (SERP). Competing in a digital
+                            marketplace without impressive visibility in search results over different devices and
+                            browsers is almost impossible. Antixx TechHub, the prominent SEO company offers results
+                            delivering low-cost SEO services strictly in Google’s guidelines and the latest algorithm
+                            updates to help businesses improve their online visibility.</p>
                     </div>
                 </div>
 

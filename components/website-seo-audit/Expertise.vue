@@ -10,26 +10,12 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-content">
-                        <span class="sub-title">Expertise</span>
-                        <h3>First to last business solution</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
+                        <!-- <span class="sub-title">Expertise</span> -->
+                        <h3>What is Website SEO Audit or SEO Site Checkup?</h3>
+                        <p>Website SEO audit, SEO health checkup, or SEO site checkup evaluates the website friendliness with target users community and search engines. Website SEO audit analyzes and reports about the on-page and off-page ranking factors. Our experienced SEO audit experts use numbers of advanced tools optimize all the website aspects to improve the visibility in organic search engine results, users’ friendliness, traffic quality, brand image, UX, leads conversions, and popularity.</p>
                         
-                        <h3>Quality assurance & testing service</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts">
-                                    <h2>1500 +</h2>
-                                    <p>Projects Launched</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts bg-DEEEFA">
-                                    <h2>18 +</h2>
-                                    <p>Years of Experience</p>
-                                </div>
-                            </div>
-                        </div>
+                        <h3>What is Web Audit Score or Website SEO Check Up Score?</h3>
+                        <p>The website audit score denotes the website quality according to search engines’ quality guidelines. Our SEO audit specialists use advanced SEO site checkup tools to analyze on-page and off-page technical aspects contributing to website appearance in search results. The SEO audit tools scale the website quality from 0-100. The 80+ SEO audit score is considered good for optimization.</p>
                     </div>
                 </div>
             </div>

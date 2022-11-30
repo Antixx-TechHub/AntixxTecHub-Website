@@ -2,24 +2,15 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Big Data Solutions" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <MoreToDiscover />
         <PageFeature />
-        <Expertise />
-        <Faq />
-        <Pricing />
+        <ServicesOne />
+        <AmazingFeatures />
+        <WhyChooseUs />
+        <TheBestInnovative />
+        <ConnectionsYourCustomers />
+        <!-- <Faq /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

@@ -7,13 +7,32 @@
                         <div class="icon">
                             <img src="~/assets/img/icon1.png" alt="image">
                         </div>
-                        <h2>Path is here for faster way of connections with your customers</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-
-                        <NuxtLink to="/single-service" class="default-btn"><i class="bx bxs-spreadsheet"></i> Learn More<span></span></NuxtLink>
+                        <div class="me-choose-content">
+                            <h4>How important is hiring of best Big Data solution consultancy agency? The answer depends
+                                upon the perspective you see the role of Big Data management agency:</h4>
+                            <div class="choose-inner-card">
+                                <i class='bx bx-check'></i>
+                                <h4>Business Perspective</h4>
+                            </div>
+                            <div class="choose-inner-card bg-two">
+                                <i class='bx bx-check'></i>
+                                <h4>Usability Perspective</h4>
+                            </div>
+                            <div class="choose-inner-card bg-three">
+                                <i class='bx bx-check'></i>
+                                <h4>Market Perspective</h4>
+                            </div>
+                            <div class="choose-inner-card">
+                                <i class='bx bx-check'></i>
+                                <h4>Data Science Perspective</h4>
+                            </div>
+                        <p>Big Data analytics tailored-to-need solutions, dependable support services, and affordable
+                            consultancy by Antixx TechHub help you to resolve a number of performance and security
+                            aligned issues in a professional way to secure your competitive growth despite challenges.
+                        </p>
+                        </div>
                     </div>
                 </div>
-
                 <div class="services-image">
                     <div class="image">
                         <img src="~/assets/img/services-image/1.png" alt="image">

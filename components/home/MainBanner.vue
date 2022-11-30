@@ -119,7 +119,7 @@
                                         style="width:600px; height:100% margin-top:20%" alt="img">
                                 </div>
                                 <!-- <div id="MainBanner">
-        <lottie-vue-player :src="`https://assets10.lottiefiles.com/packages/lf20_tzjfwgud.json`"
+        <lottie-vue-player :src="`~/assets/img/json/web-developers.json`"
                            :theme="options.theme"
                            :player-size="options.playerSize"
                            :player-controls="true"

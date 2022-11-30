@@ -2,8 +2,12 @@
     <div class="ptb-100 bg-f4f6fc">
         <div class="container">
             <div class="section-title">
-                <h2 class="mb-2">More to Discover</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <h2 class="mb-2">Future-Ready Website Design Services by Antixx TechHub</h2>
+                <p>The qualified, trained, and experienced website designers at Antixx TechHub have proven expertise in
+                    website designing using the most advanced tools and technologies as per Google guidelines and
+                    preferences for ranking. The success depends upon how easily the target audience can access the
+                    offered products/services. The best website design services for exceptional web designs ensure a
+                    unique user experience (UX) to visitors.</p>
             </div>
         </div>
 
@@ -18,32 +22,51 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">01</span>
-                            <h3>Getting Started Page</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+                            <p>All the websites, we create and deliver with an innovative User interface (UI), are the
+                                best tuned to the future-oriented web design parameters. For being a top website
+                                designing agency, we at Antixx TechHub incorporate all the best website design features
+                                that the modern age mobile user’s like:</p>
                             <ul>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Unique Design
+                                    Illustrated web page
                                 </li>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
+                                    Low light & dark mode web design
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
+                                    <i class='bx bx-badge-check'></i>Monochromatic website design
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designInteractive
+                                    storytelling web design
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designInteractive animation
+                                    for visual explanation
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designNeomorphism web design
+                                    for a clean visual appeal
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designRotating animated web
+                                    page design for enhanced engagement
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designNon-traditional
+                                    scrolling choosing the best suitable option
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designEmbedded videos at the
+                                    home page
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Monochromatic website designWeb design with
+                                    gradient color
                                 </li>
                             </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -55,36 +78,48 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">02</span>
-                            <h3>Outdated Comments Toggling</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+                            <h3>The Competitive Website Development Services by Antixx TechHub</h3>
+                            <p>The website users like a convenience for getting the required information and completing
+                                the action. We are supporting businesses by providing low-cost but competitive website
+                                development services. The technical excellence of web developers helps us to ensure
+                                seamless UX to your users. The industry-best web development services, rendered by
+                                dedicated web developers, take care of every concern about usability, reliability, and
+                                ease of use. Our web development services incorporate the top trending functionality to
+                                empower your business website to stay competitive in the future:</p>
                             <ul>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Mordan Design
+                                    Voice Search Optimization
                                 </li>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
+                                    AI-Powered Chatbots
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
+                                    <i class='bx bx-badge-check'></i>Dark Mode Experience
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
+                                    <i class='bx bx-badge-check'></i>Single Page Application (SPA)
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Outdated Comments
+                                    <i class='bx bx-badge-check'></i>Internet of Things (IoT)
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Server-less Architecture
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Progressive Web Apps (PWAs)
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Accelerated Mobile Pages (AMP)
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Augmented & Virtual Reality
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Mobile-First and API-First
                                 </li>
                             </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
                         </div>
                     </div>
 
@@ -108,36 +143,48 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-content pl-3">
-                            <span class="number">03</span>
-                            <h3>Code Review Illustrations</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+                            <h3>The Best Website Design and Development Services </h3>
+                            <p>Our years of experience, remarkable achievements and high customer satisfaction makes
+                                Antixx TechHub the #1 web design & development company you can rely the most on. The
+                                website design and development services are optimized in line with the particular
+                                business nature, marketing plan, expansion plan, and resources.</p>
+                            <p>We have the best skill pool for website design and development to deliver you the
+                                versatile competitive advantage on technical ground in all the critical areas of
+                                functionality, UX, and performance:</p>
                             <ul>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Professional Code
+                                    Easy navigation
                                 </li>
                                 <li>
                                     <i class='bx bx-badge-check'></i>
-                                    Unimited Video Call
+                                    Intuitive design
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Add Favourite contact
+                                    <i class='bx bx-badge-check'></i>Strong & clear call to action (CTA) buttons
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Camera Filter
+                                    <i class='bx bx-badge-check'></i>Immersive visual experience
                                 </li>
                                 <li>
-                                    <i class='bx bx-badge-check'></i>
-                                    Start Coding Format
+                                    <i class='bx bx-badge-check'></i>Mobile-responsiveness
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Website load time and page speed
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Smart content management system (CMS)
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Lead nurturing forms
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Interactivity
+                                </li>
+                                <li>
+                                    <i class='bx bx-badge-check'></i>Mix of organic shapes and geometric shapes…
                                 </li>
                             </ul>
-                            <a href="#" class="default-btn black-btn">
-                                <i class='bx bxs-arrow-to-right'></i>
-                                Read More 
-                                <span></span>
-                            </a>
                         </div>
                     </div>
                 </div>

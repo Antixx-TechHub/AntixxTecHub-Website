@@ -2,24 +2,15 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Web Design & Development" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
+        <MoreToDiscover />
+        <ServicesOne />
+        <AmazingFeatures />
+        <WhyChooseUs />
         <TheBestInnovative />
-        <PageFeature />
-        <Expertise />
+        <ConnectionsYourCustomers />
         <Faq />
-        <Pricing />
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

@@ -7,7 +7,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-blog-post">
                                 <div class="post-image">
-                                    <NuxtLink to="/single-blog">
+                                    <NuxtLink to="/react-native">
                                         <img src="~/assets/img/blog-image/1.jpg" alt="image">
                                     </NuxtLink>
 
@@ -19,8 +19,8 @@
 
                                 <div class="post-content">
                                     <h3>
-                                        <NuxtLink to="/single-blog">
-                                            50 world-changing people -- We lost in the 2010s
+                                        <NuxtLink to="/react-native">
+                                            What Makes React Native a Preferred Choice for iOS & Android Apps Development
                                         </NuxtLink>
                                     </h3>
 
@@ -32,7 +32,7 @@
                                         </div>
 
                                         <div class="details-btn">
-                                            <NuxtLink to="/single-blog">
+                                            <NuxtLink to="/react-native">
                                                 <i class="bx bx-right-arrow-alt"></i>
                                             </NuxtLink>
                                         </div>
