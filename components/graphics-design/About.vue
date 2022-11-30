@@ -4,13 +4,14 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span></span>
+                        <h3>Welcome to Antixx TechHub, a Graphics Designing Services Provider Company!</h3>
+                        <p>Every branding campaign is powered by stunning graphics because uniquely created graphics
+                            help the businesses convey the message in a better digestive way that can’t be done through
+                            text-only messaging. Over the years, graphics designing has become an integral element of a
+                            marketing strategy because businesses need a unique brand value for identity building and
+                            conveying the message effectively in a glance. Here, you need to hire professional graphics
+                            designers who could create graphics up to the different needs of businesses.</p>
                     </div>
                 </div>
 

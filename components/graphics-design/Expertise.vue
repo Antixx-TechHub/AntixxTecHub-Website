@@ -10,12 +10,11 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-content">
-                        <span class="sub-title">Expertise</span>
-                        <h3>First to last business solution</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        
-                        <h3>Quality assurance & testing service</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
+                        <span class="sub-title"></span>
+                        <h3>Why You Need To Hire a Graphics Designing Company</h3>
+                        <p>Graphics in business messaging communicate the brand story with visual attraction. Almost 90% of information transmitted to the brain is through visuals that are processed 60,000X faster than the text to communicate the message (MIS). People keep 80% of the information remembered that they see compared to 20 percent of the information that they read. 68% of online marketers use visual content for content marketing. 52% of digital marketers accept the importance of visual content (Venngage study). Almost 73% of businesses tend to invest in a unique design for their brand differentiation (Adobe’s research.</p>
+
+                        <p>A graphic design company helps businesses to build memorable visibility that in turn increases leads. The professionally designed graphics by a specialist graphics design company inspire the potential buyers to know more about a brand’s offering; in turn, you get more visitors.</p>
                         <div class="row justify-content-center">
                             <div class="col-lg-6 col-sm-6">
                                 <div class="expertise-funfacts">

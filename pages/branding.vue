@@ -2,24 +2,24 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Branding" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
+        <About />
+        <WhyChooseUs />
+        <MoreToDiscover />
+        <!-- <AmazingFeatures />
         <ServicesOne />
         <Services />
-        <MoreToDiscover />
         <YourApplication class="pt-0" />
         <TheAbilityToElicit />
-        <WhyChooseUs />
         <Features />
-        <About />
         <PageAbout />
-        <CaseStudies />
-        <Featured />
+        <CaseStudies /> -->
+        <!-- <Featured /> -->
         <ConnectionsYourCustomers />
         <TheBestInnovative />
-        <PageFeature />
-        <Expertise />
+        <!-- <PageFeature />
+        <Expertise /> -->
         <Faq />
-        <Pricing />
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

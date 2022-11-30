@@ -2,24 +2,16 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Graphics Design" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
         <Expertise />
+        <MoreToDiscover />
+        <PageAbout /> 
+        <Features /> 
+        <WhyChooseUs />
+        <TheBestInnovative />
+        <ConnectionsYourCustomers />
         <Faq />
-        <Pricing />
+        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -29,6 +21,7 @@
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/graphics-design/PageTitle';
+import WhyChooseUs from '../components/graphics-design/WhyChooseUs';
 import AmazingFeatures from '../components/graphics-design/AmazingFeatures';
 import ServicesOne from '../components/graphics-design/ServicesOne';
 import MoreToDiscover from '../components/graphics-design/MoreToDiscover';
@@ -36,7 +29,6 @@ import Services from '../components/graphics-design/Services';
 import YourApplication from '../components/graphics-design/YourApplication';
 import TheAbilityToElicit from '../components/graphics-design/TheAbilityToElicit';
 import TheBestInnovative from '../components/graphics-design/TheBestInnovative';
-import WhyChooseUs from '../components/graphics-design/WhyChooseUs';
 import Features from '../components/graphics-design/Features';
 import ConnectionsYourCustomers from '../components/graphics-design/ConnectionsYourCustomers';
 import About from '../components/graphics-design/About';
@@ -55,13 +47,13 @@ export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
+        WhyChooseUs,
         AmazingFeatures,
         ServicesOne,
         Services,
         MoreToDiscover,
         YourApplication,
         TheAbilityToElicit,
-        WhyChooseUs,
         Features,
         ConnectionsYourCustomers,
         TheBestInnovative,

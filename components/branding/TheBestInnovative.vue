@@ -13,14 +13,46 @@
                         <div class="icon">
                             <img src="~/assets/img/icon1.png" alt="image">
                         </div>
-                        <h2>The best Innovative Chatbot and automations are here to expand</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-
-                        <NuxtLink to="/single-service" class="default-btn">
-                            <i class="bx bxs-spreadsheet"></i> 
-                            Learn More 
-                            <span></span>
-                        </NuxtLink>
+                        <h2>Why Hire Antixx TechHub for Branding Support Services</h2>
+                        <p> We have proven experience, expertise, and capabilities to justify your decision of hiring
+                            Antixx TechHub for the low-cost branding support services. Our client-centric approach helps
+                            us to understand your needs in true color; therefore, the customized branding solutions
+                            support your marketing team to perform better. Whether you need branding service solutions
+                            for a start-up business, small business, or corporate business, we invest the best efforts
+                            to leverage branding benefits. The numbers of reasons make Antixx TechHub a trustworthy
+                            branding agency for any business type:</p>
+                        <ul>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Experience, exposure, expertise, efficiency, & effectiveness
+                            </li>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Competitive pricing with transparency
+                            </li>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Tailor-made branding strategy
+                            </li>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Optimized activities in branding package as per budget
+                            </li>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Data-driven analytical approach
+                            </li>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Comprehensive branding with technically advanced business solutions
+                            </li>
+                            <li>
+                                <i class='bx bx-badge-check'></i>
+                                Regular progress analysis, improvement, and reporting
+                            </li>
+                        </ul>
+                        <p>To know more about our branding support services and promotional offers, contact our branding
+                            experts.</p>
                     </div>
                 </div>
             </div>

@@ -4,13 +4,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span></span>
+                        <h3>Antixx TechHub- A Branding Services Provider Company </h3>
+                        <p>A business brand is an entire identity of businesses. The perfect branding creates a personality for your business. Over the years as the competition in every business sector is increasing, businesses are trying the most effective ways to attract customers; and, powerful branding is one of these ways. Antixx TechHub, as being the leading branding company, offers a range of services to strengthen your business brand repute.</p>
                     </div>
                 </div>
 

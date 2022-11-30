@@ -1,28 +1,39 @@
 <template>
     <div class="me-choose-area ptb-100">
         <div class="container">
+            <div class="section-title">
+                <h2 class="mb-2">What Makes Antixx TechHub a Graphics Designer Agency to Depend On?</h2>
+                <p>Every client, irrespective of business size and nature, is equally valuable for us. Our graphics developers invest the best efforts to deliver up the clients’ satisfaction; therefore, our graphic designs are best tuned to all the key principles and elements of graphics designing.</p>
+            </div>
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="me-choose-content">
-                        <span>Why Choose Us</span>
-                        <h3>We are committed to providing our services</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed tellus.</p>
-                        
+                        <h3>Seven key Principles of Graphics Designing:</h3>
+                        <p>The graphics designing principles refer to the ways to use the designing elements like the symmetrical or asymmetrical balance, movement, proportion, pattern, emphasis, etc. The principles of graphics designing define the techniques and rules for composing the designing elements like:</p>
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>Transparent</h4>
-                            <p>Accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
+                            <h4>Balance of designing elements</h4>
                         </div>
                         <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>Affordable</h4>
-                            <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis.</p>
+                            <h4>Hierarchy (dominance & priority)</h4>
                         </div>
                         <div class="choose-inner-card bg-three">
                             <i class='bx bx-check'></i>
-                            <h4>Flexible</h4>
-                            <p>accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo</p>
+                            <h4>Contrast of key elements</h4>
+                         </div>
+                         <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Proximity of graphics designing elements</h4>
                         </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Harmony for a sense of message completeness</h4>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Scale and Proportion</h4>
+                         </div>
                     </div>
                 </div>
 

@@ -7,40 +7,43 @@
                         <div class="icon">
                             <img src="~/assets/img/icon1.png" alt="image">
                         </div>
-                        <h2>Why Hire Antixx TechHub for Graphics Services</h2>
-                        <p>We have delivered a number of graphic designs for different types of businesses. Most of the
-                            graphics designs created by our graphics developers become a trendsetter because of
-                            unmatched creativity and innovative ideas. Because of providing graphics services over the
-                            years, we have a deep understanding of specific digital and offline marketing domains like
-                            products, promotion, packaging, place, positioning, and people. The industry-best graphics
-                            design services by Antixx TechHub empower your business with</p>
+                        <h2>Our Approach for Ecommerce Website Development Service Support</h2>
+                        <p>eCommerce management services by Antixx TechHub are widely hailed by our customers because we
+                            address their likings in line of analyzed quality parameters for the design and development
+                            of eCommerce websites. As a proficient eCommerce development services provider, our
+                            eCommerce designers create engaging storefront designs and eCommerce developers infuse the
+                            competitive functionalities with a customer-centric approach:</p>
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>Enhanced awareness with creative graphics</h4>
+                            <h4>Optimization for owners’ objectives</h4>
                         </div>
                         <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>Brand memory because of memorable visuals</h4>
+                            <h4>Optimization as buyers’ intent</h4>
                         </div>
                         <div class="choose-inner-card bg-three">
                             <i class='bx bx-check'></i>
-                            <h4>Long-lasting impression because of uniqueness</h4>
+                            <h4>Optimization of technology for the best UX</h4>
                         </div>
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>Buyers’ attraction because of relevance to needs</h4>
+                            <h4>Optimization of UI features and functionalities</h4>
                         </div>
                         <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>Cheap graphics solutions optimized to objectives</h4>
+                            <h4>Optimization for SEO and digital marketing</h4>
                         </div>
                         <div class="choose-inner-card bg-three">
                             <i class='bx bx-check'></i>
-                            <h4>Branding, advertising, and marketing expertise</h4>
+                            <h4>Optimization for the day-to-day management</h4>
                         </div>
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>Experience, expertise, efficiency, and effectiveness</h4>
+                            <h4>Optimization for buyers ease</h4>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Optimization for scalability to plane better</h4>
                         </div>
                     </div>
                 </div>

@@ -4,13 +4,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <h3>Welcome to Antixx TechHub- Leading eCommerce Web Design & Development Company</h3>
+                        <p>Over the years, Antixx TechHub has become a pioneer eCommerce web development company having unique prestige for providing comprehensive eCommerce support services for eCommerce web owners. Everyone at Antixx TechHub is committed to deliver a seamless experience to eCommerce business owners a seamless experience to hire an eCommerce website development agency. We are providing turnkey solutions to help the eCommerce businesses over the years; during the period, we have delivered the numbers of performing eCommerce websites to sell different products and services.</p>
                     </div>
                 </div>
 

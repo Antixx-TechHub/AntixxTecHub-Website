@@ -8,9 +8,13 @@
                             <span>01</span>
                         </div>
                         <h3>
-                            <NuxtLink to="/single-service">Data Analysis</NuxtLink>
+                            <NuxtLink to="/">Graphics Development Stage:</NuxtLink>
                         </h3>
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus praesent sapien massa convallis a pellentesque.</p>
+                        <p>• Thumbnailing</p>
+                        <p>• Sketching</p>
+                        <p>• Visual Exploration</p>
+                        <p>• Design Building</p>
+                        <p>• Refining</p>
                         <div class="icon">
                             <i class="bx bx-customize"></i>
                         </div>
@@ -23,9 +27,12 @@
                             <span>02</span>
                         </div>
                         <h3>
-                            <NuxtLink to="/single-service">PPC Marketing</NuxtLink>
+                            <NuxtLink to="/">Reviewing Stage:</NuxtLink>
                         </h3>
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus praesent sapien massa convallis a pellentesque.</p>
+                        <p>• Presenting</p>
+                        <p>• Feedback considerations</p>
+                        <p>• Revisions</p>
+                        <p>• Review</p>
                         <div class="icon">
                             <i class="bx bx-slider-alt"></i>
                         </div>
@@ -38,9 +45,9 @@
                             <span>03</span>
                         </div>
                         <h3>
-                            <NuxtLink to="/single-service">Business Analytics</NuxtLink>
+                            <NuxtLink to="/">Delivery Stage:</NuxtLink>
                         </h3>
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus praesent sapien massa convallis a pellentesque.</p>
+                        <p>• Delivery with the final touch </p>
                         <div class="icon">
                             <i class="bx bx-reset"></i>
                         </div>
