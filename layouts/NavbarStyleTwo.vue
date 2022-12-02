@@ -16,7 +16,7 @@
                     <b-collapse class="collapse navbar-collapse" id="navbarSupportedContent" is-nav>
                         <ul class="navbar-nav">
                             <li class="nav-item megamenu">
-                                <a href="#" class="nav-link">
+                                <a href="/" class="nav-link">
                                     Services <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
@@ -113,7 +113,7 @@
                             </li>
 
                             <li class="nav-item megamenu">
-                                <a href="#" class="nav-link">
+                                <a href="/" class="nav-link">
                                     Product Expertise<i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
@@ -274,7 +274,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="/" class="nav-link">
                                     Explore & Learn <i class='bx bx-chevron-down'></i>
                                 </a>
 
@@ -298,7 +298,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="/" class="nav-link">
                                     Company <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
