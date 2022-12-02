@@ -36,7 +36,7 @@
                                             <NuxtLink to="/web-design-development" class="nav-link">
                                                 <p>Web Design & Development</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/product-development" class="nav-link">
+                                            <NuxtLink to="/eCommerce-development" class="nav-link">
                                                 <p>eCommerce Development</p>
                                             </NuxtLink>
                                             <NuxtLink to="/mobile-app-development" class="nav-link">
