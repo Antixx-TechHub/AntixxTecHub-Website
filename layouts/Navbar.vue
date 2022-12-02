@@ -23,8 +23,8 @@
                                     <li class="nav-item-services">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/development.png" alt="image">
-                                           Design & Development
-                                           <NuxtLink to="/branding" class="nav-link">
+                                            Design & Development
+                                            <NuxtLink to="/branding" class="nav-link">
                                                 <p>Branding</p>
                                             </NuxtLink>
                                             <NuxtLink to="/graphics-design" class="nav-link">

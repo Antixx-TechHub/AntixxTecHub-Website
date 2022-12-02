@@ -48,7 +48,7 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/development.png" alt="image">
-                                           Design & Development
+                                            Design & Development
                                             <NuxtLink to="/software-development" class="nav-link">
                                                 <p>Software Development</p>
                                             </NuxtLink>
