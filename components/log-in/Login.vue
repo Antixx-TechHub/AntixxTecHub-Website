@@ -20,7 +20,7 @@
 
                                 <h3>Welcome back</h3>
                                 <p>
-                                    New to StStrikirax? 
+                                    New to Antixx TechHub? 
                                     <NuxtLink to="/sign-up">Sign up</NuxtLink>
                                 </p>
 
