@@ -114,10 +114,11 @@
                         <carousel :autoplay="true" :autoplayTimeout='7000' :loop="true" :paginationEnabled="true"
                             :perPageCustom="[[0, 1]]">
                             <slide>
-                                <div>
+                                <div class="banner-image banner-slider-bg1"></div>
+                                <!-- <div>
                                     <img src="~/assets/img/banner-slider/banner-img1.gif"
                                         style="width:600px; height:100% margin-top:20%" alt="img">
-                                </div>
+                                </div> -->
                                 <!-- <div id="MainBanner">
         <lottie-vue-player :src="`~/assets/img/json/web-developers.json`"
                            :theme="options.theme"

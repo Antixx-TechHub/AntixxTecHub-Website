@@ -121,31 +121,31 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/bmc.svg" alt="image">
                                             BMC
-                                            <NuxtLink to="/helix-itsm" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Helix ITSM</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/truesight" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>TrueSight</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/control-m" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Control-M</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/bladelogic" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>BladeLogic</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/smart-reporting" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Smart Reporting</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/helix-discovery" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Helix Discovery</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/helix-remedyforce" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Helix Remedyforce</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/client-management" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Client Management</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/helix-digital-workplace" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Helix Digital Workplace</p>
                                             </NuxtLink>
                                         </NuxtLink>
@@ -154,22 +154,22 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/salesforce.svg" alt="image">
                                             Salesforce
-                                            <NuxtLink to="/sales-cloud" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Sales Cloud</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/service-cloud" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Service Cloud</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/commerce-cloud" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Commerce Cloud</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/marketing-cloud" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Marketing Cloud</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/community-cloud" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Community Cloud</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/integration-cloud" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Integration Cloud</p>
                                             </NuxtLink>
                                         </NuxtLink>
@@ -178,22 +178,22 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/servicenow.svg" alt="image">
                                             ServiceNow
-                                            <NuxtLink to="/it-workflows" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>IT Workflows</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/audit-management" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Audit Management</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/it-service-management" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>IT Service Management</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/knowledge-management" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Knowledge Management</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/it-asset-management" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>IT Asset Management</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/configuration-compliance" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Configuration Compliance</p>
                                             </NuxtLink>
                                         </NuxtLink>
@@ -202,22 +202,22 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/sap.svg" alt="image">
                                             SAP
-                                            <NuxtLink to="/sap-hana" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP HANA</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/sap-crm" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP CRM</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/sap-erp" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP ERP</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/sap-hr" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP HR</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/sap-plm" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP PLM</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/sap-business-objects" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP Business Objects</p>
                                             </NuxtLink>
                                         </NuxtLink>
@@ -226,22 +226,22 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/aws.svg" alt="image">
                                             AWS
-                                            <NuxtLink to="/aws-consulting" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>AWS Consulting</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/aws-cloud-security" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>AWS Cloud Security</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/aws-cloud-migration" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>AWS Cloud Migration</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/serverless-computing" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Serverless Computing</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/aws-market-enablement" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>AWS Market Enablement</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/managed-cloud-services" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Managed Cloud Services</p>
                                             </NuxtLink>
                                         </NuxtLink>
@@ -250,19 +250,19 @@
                                         <NuxtLink to="/" class="nav-link">
                                             <img src="~/assets/img/icon/analytics.svg" alt="image">
                                             Analytics
-                                            <NuxtLink to="/powerbi" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Power BI</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/qlik-sense" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Qlik Sense</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/qlikview" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>QlikView</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/tableau" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>Tableau</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/sap-analytics" class="nav-link">
+                                            <NuxtLink to="/" class="nav-link">
                                                 <p>SAP Analytics</p>
                                             </NuxtLink>
                                             <NuxtLink to="/" class="nav-link">
