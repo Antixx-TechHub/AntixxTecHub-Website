@@ -10,26 +10,35 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-content">
-                        <span class="sub-title">Expertise</span>
-                        <h3>First to last business solution</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
+                        <!-- <span class="sub-title">Expertise</span> -->
+                        <h3>Why Choose Antixx TechHub for Business Automation Services</h3>
+                        <p>We are providing tailor-made business automation solutions and support services over the years with focus on delivering the best at a competitive price. During the journey, we have served diverse business sectors by consulting, developing, integrating, and updating business automation solutions to their needs. The key aspects that make Antixx TechHub a distinctive business automation software developer agency are:</p>
                         
-                        <h3>Quality assurance & testing service</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts">
-                                    <h2>1500 +</h2>
-                                    <p>Projects Launched</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts bg-DEEEFA">
-                                    <h2>18 +</h2>
-                                    <p>Years of Experience</p>
-                                </div>
-                            </div>
+                        <div class="me-choose-content">
+                            <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Our focus to deliver maximum business automation value</h4>
                         </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Our holistic approach for customized business automation development</h4>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Our advanced technology and measures to safeguard your data and critical information</h4>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Our thrust on optimized implementation to minimize time and costs</h4>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Our industry-best managed support model</h4>
+                        </div>
+                    </div>
+
+                        <p>The ever-expanding service support portfolio showcase our innovative approach to infuse technical excellence by adopting the most advanced BPA technologies up to their full potential. The diversity in increasing clientele showcases our expertise to deliver 100% satisfaction as a business process automation consultancy and solutions provider.</p>
+
                     </div>
                 </div>
             </div>

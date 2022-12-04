@@ -1,6 +1,10 @@
 <template>
     <div class="services-area ptb-100">
         <div class="container-fluid">
+            <div class="section-title">
+                <h2 class="mb-2">Technologies & Tools We Use For Developing Tailor-Made AI & ML Solutions</h2>
+                <p>Our highly experienced AI and ML expertise understand and analyze your requirements keeping in mind short-term and long-term goals- existing issues, pitfalls in processes, immediate requirement for improvement, competitive challenges, future road map, etc. As being one of top AI & ML service support providers, we optimize selection of the best tools and technologies to make AI and ML services cost-effective:</p>
+            </div>
             <div class="row align-items-center">
                 <div class="services-image">
                     <div class="image">
@@ -13,21 +17,27 @@
                         <div class="features-inner-content">
                             <div class="features-item">
                                 <i class='bx bx-phone-call bg-13c4a1 blt-radius-0'></i>
-                                <h3>Free Caliing Service</h3>
-                                <p>Plan ahead by day, week, or month, and see project status at a glance. Search and filter to focus in on anything form a single project to an individual person's workload.</p>
-                            </div>
+                                <h3>AI and ML Languages</h3>
+                        <p>Python, JavaScript, R, C++, Shell, Go (Golang), Scala, 3 TypeScript, Rust, SQL, etc.</p>
+                    </div>
 
                             <div class="features-item">
                                 <i class='bx bx-gift bg-6610f2 blt-radius-0'></i>
-                                <h3>Daily Free Gift</h3>
-                                <p>Plan ahead by day, week, or month, and see project status at a glance. Search and filter to focus in on anything form a single project to an individual person's workload.</p>
-                            </div>
+                                <h3>AI and ML Frameworks</h3>
+                        <p>Tensorflow, Caffe2, Flask, Django, RASA, NLTK, NumPy, PyTorch Lightning, etc.</p>
+                    </div>
 
                             <div class="features-item">
                                 <i class='bx bx-code-alt bg-ff612f blt-radius-0'></i>
-                                <h3>QR Code Scaner</h3>
-                                <p>Plan ahead by day, week, or month, and see project status at a glance. Search and filter to focus in on anything form a single project to an individual person's workload.</p>
-                            </div>
+                                <h3>Data Engineering Technologies</h3>
+                        <p>Hadoop, Amazon Redshift, Azure, Big Query, Tableau, Looker, Apache Spark, MOngoDB, Macros, etc.</p>
+                    </div>
+
+                    <div class="features-item">
+                                <i class='bx bx-phone-call bg-13c4a1 blt-radius-0'></i>
+                               <h3>BI Solutions Technologies</h3>
+                        <p>SAP, SAS, Zoho Analytics, QlikSense, PowerBI, Kibana, etc.</p>
+                    </div>
                         </div>
                     </div>
                 </div>

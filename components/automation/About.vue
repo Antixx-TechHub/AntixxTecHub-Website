@@ -4,13 +4,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span>Antixx TechHub</span>
+                        <h3>the #1 Business Automation Solution Development Company </h3>
+                        <p>Welcome to Antixx TechHub- The best business automation solutions provider company you can trust for proficiency, professional approach, and dependable support.</p>
+                        <p>Business process automation (BPA) is the integration of technology to automate different business processes allowing businesses to increase productivity at reduced costs. Let the customized business automation solutions complete a range of tasks with 100% accuracy allowing your workforce to focus better on other high-value tasks. We at Antixx TechHub are providing business automation software development and comprehensive consultancy service support for over the years.</p>
                     </div>
                 </div>
 

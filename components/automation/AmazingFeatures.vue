@@ -1,121 +1,53 @@
 <template>
     <div class="features-area pt-100 pb-70 bg-f4f6fc">
         <div class="container">
+            <div class="section-title">
+                <h2 class="mb-2">Industries We Serve as a Business Automation consultant & Service Providers</h2>
+                <p>During the journey since the inception of Antixx TechHub, we have served numbers of businesses in diverse sectors. We have wide exposure to the nature of businesses and their key concerns in a digital operational arena and marketplace. Our BPA specialists have a fair idea about ‘what, why and how’ to create and integrate the best solution for the particular business automation objective. The key industries we have served by providing business automation consulting and solutions are:</p>
+            </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="features-box-one">
                         <i class='bx bx-conversation bg-13c4a1'></i>
-                        <h3>IT Consultancy</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
+                        <h3>Telecom:</h3>
+                        <p>Monitoring network performance, media content delivery, billing automation, purchase order tracking, expense management, debt collection...</p>
 
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <div class="features-box-one">
                         <i class='bx bx-mobile bg-6610f2'></i>
-                        <h3>Mobile Applications</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
+                        <h3>Manufacturing:</h3>
+                        <p>Asset inspection, Tracking product design processes, inventory tracking, equipment performance monitoring, work order management, quality control, safety measure management...</p>
 
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <div class="features-box-one">
                         <i class='bx bxs-badge-check bg-ffb700'></i>
-                        <h3>IT Solutions</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
+                        <h3>Healthcare:</h3>
+                        <p>Appointments scheduling, patient admission, record management, automated medical billing, payment automation, healthcare claims settlement, healthcare audits...</p>
 
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <div class="features-box-one">
                         <i class='bx bx-laptop bg-9c27b0'></i>
-                        <h3>Web Development</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
+                        <h3>Banking, insurance & financial:</h3>
+                        <p>Account opening, cost estimation, expense tracking, credit approval, customers’ background check, customer support service via bots, premium calculation…</p>
 
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <div class="features-box-one">
                         <i class='bx bx-cart bg-3f51b5'></i>
-                        <h3>eCommerce</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
+                        <h3>Retail:</h3>
+                        <p>Inventory tracking, catalog management, warehouse navigation, reporting, return processing, customer self-service...</p>
 
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="features-box-one">
-                        <i class='bx bxs-dashboard bg-e91e63'></i>
-                        <h3>Project Management</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="features-box-one">
-                        <i class='bx bx-data bg-fc3549'></i>
-                        <h3>Web Hosting</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="features-box-one">
-                        <i class='bx bxs-info-circle bg-00d280'></i>
-                        <h3>Technical Support</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="features-box-one">
-                        <i class='bx bx-cog bg-ff612f'></i>
-                        <h3>SEO, Affiliate Marketing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
                     </div>
                 </div>
             </div>

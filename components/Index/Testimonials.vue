@@ -30,7 +30,7 @@
                     </slide>
                     <slide>
                         <div class="is-testimonials-card">
-                            <p>“I appreciate everyone at PB Vision associated with the team that developed a business automation solution for data and applications workflow orchestration to improve planning, collaboration, efficiencies, productivity, delivery, etc. Now the required information is accessible over mobile apps.”</p>
+                            <p>“I thank everyone at Antixx TechHub associated with my app development and deployment. The overall experience was satisfactory.”</p>
                                 
                             <div class="client-info d-flex align-items-center">
                                 <img src="~/assets/img/author-image/2.jpg" alt="image">
@@ -44,7 +44,7 @@
                     </slide>
                     <slide>
                         <div class="is-testimonials-card">
-                            <p>“It is a pleasure for me the recommend PB Vision for technical SEO. I hired the agency for traffic and rank promotion as well as for social media marketing. The tailored SEO plan was designed with maximum activities. The SEO gains appeared within three months. Thanks to the SEO team for promoting my business!”</p>
+                            <p>“The speedy development and deployment of my website by Antixx TechHub helped me to grab the sales opportunity in festive season. The dedicated web developers are knowledgeable and client-friendly.”</p>
                                 
                             <div class="client-info d-flex align-items-center">
                                 <img src="~/assets/img/author-image/3.jpg" alt="image">
@@ -57,9 +57,9 @@
                         </div>
                     </slide>
 
-                    <!-- <slide>
+                    <slide>
                         <div class="is-testimonials-card">
-                            <p>“Nulla quis lorem ut libero malesuada feugiat quisque velit nisi pretium ut lacinia in elementum id enim. curabitur arcu erat accumsan id imperdiet et porttitor. curabitur aliquet quam id dui posuere blandit.”</p>
+                            <p>“It was the 2nd time I hired Antixx TechHub for digital marketing; the outcome of SEO and SMM initiated after website audit is as good as it has been previous time. I appreciate SEO team leader Mr. Sushant for customizing SEO package well under my budget.”</p>
                                 
                             <div class="client-info d-flex align-items-center">
                                 <img src="~/assets/img/author-image/1.jpg" alt="image">
@@ -100,7 +100,7 @@
                                 </div>
                             </div>
                         </div>
-                    </slide> -->
+                    </slide>
 
                 </carousel>
             </div>

@@ -2,24 +2,13 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Automation" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
+        <WhyChooseUs />
+        <MoreToDiscover />
+        <ServicesOne />
+        <AmazingFeatures />
         <Expertise />
-        <Faq />
-        <Pricing />
+        <!-- <Faq /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

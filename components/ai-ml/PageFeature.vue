@@ -3,71 +3,65 @@
         <div class="container">
             <div class="section-title-with-large-box d-flex align-items-center justify-content-between">
                 <div class="max-width">
-                    <span>Case Studies</span>
-                    <h2>Check Of Our Some Recent Works & Case Studies</h2>
+                    <h3>Why Hire Antixx Techhub for AI & ML Consultancy, Solutions, and Service Support</h3>
+                    <p>Over the years, Antixx TechHub has become a preferred choice of all the businesses with
+                        experience of outsourcing customized design & development services, digital marketing services,
+                        technology support solutions, and custom support solutions. We have developed Antixx TechHub to
+                        work as a single vendor for a range of service support to serve your diverse operational and
+                        promotional requirements. We have many reasons to become your #1 AI & ML consulting agency
+                        providing tailored-to-need AI & ML solutions and service support:</p>
                 </div>
-                <a href="#" class="default-btn">View All Case Studies <span></span></a>
             </div>
 
             <div class="is-case-studies-list-tabs">
                 <b-tabs pills card vertical>
-                    <b-tab title="Google Search Engine Marketing" active>
+                    <b-tab title="Agile and Flexible" active>
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>We follow Agile methodology to develop future-ready enterprise solutions to hire you
+                                    improve overall business performance.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Content SEO marketing">
+                    <b-tab title="Certified and Experienced Technology Professionals">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies2.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>We have the best skills to understand your requirements and to deliver a perfect
+                                    solution.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Content digital marketing">
+                    <b-tab title="Vast Technology Portfolio">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies3.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>We have proven expertise in all the popular and commonly used legacy and emerging
+                                    technologies.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Analysis of New Product">
+                    <b-tab title="Dependable Support & Availability">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies4.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Your dedicated project team leader is always available to address all your concern
+                                    promptly.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Return on Investment">
+                    <b-tab title="Freedom to Hire AI Engineers and Machine Learning Developers">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies5.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
-                            </div>
-                        </div>
-                    </b-tab>
-                    <b-tab title="Built web faster & better">
-                        <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
-
-                            <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>We allow you to help the dedicated best appealing AI engineers & ML specialists with
+                                    a guarantee by Antixx TechHub for a seamless experience.</p>
                             </div>
                         </div>
                     </b-tab>

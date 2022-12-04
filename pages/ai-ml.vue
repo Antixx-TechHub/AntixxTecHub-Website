@@ -2,24 +2,12 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="AI & ML" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <MoreToDiscover />
+        <Services />
         <PageFeature />
-        <Expertise />
-        <Faq />
-        <Pricing />
+        <WhyChooseUs />
+        <!-- <Faq /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

@@ -1,19 +1,19 @@
 <template>
     <div class="features-area pt-100 pb-70">
         <div class="container">
+            <div class="section-title">
+                <h2 class="mb-2">Our Technical Excellence for Business Automation Solutions Development</h2>
+                <p>We at Antixx TechHub have the best skill pool to leverage the advantage of advanced technologies solutions tools globally trusted and used for developing business process automation service solutions. We have the best-trained experts to incorporate the best suitable technology to maximize ROI on the integration of business process automation solutions.</p>
+
+            </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
                     <div class="features-box">
                         <div class="icon">
                             <i class='bx bx-conversation'></i>
                         </div>
-                        <h3>IT Consultancy</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>Back-End Programming Languages</h3>
+                        <p>JavaScript, Python, PHP, Golang, Rust, TypeScript...</p>
 
                         <div class="back-icon">
                             <i class='bx bx-conversation'></i>
@@ -26,13 +26,8 @@
                         <div class="icon">
                             <i class='bx bx-mobile'></i>
                         </div>
-                        <h3>Mobile Applications</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>Front-end Programming Languages</h3>
+                        <p>Cascading Style Sheets (CSS), HTML, React, Angular, Vue, jQuery, Swift...</p>
 
                         <div class="back-icon">
                             <i class='bx bx-mobile'></i>
@@ -45,13 +40,8 @@
                         <div class="icon">
                             <i class='bx bxs-badge-check'></i>
                         </div>
-                        <h3>IT Solutions</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>Platforms</h3>
+                        <p>SAP, SharePoint, ServiceNow, Power Apps, Magento, Dynamics 365, Power Automate...</p>
 
                         <div class="back-icon">
                             <i class='bx bxs-badge-check'></i>
@@ -64,13 +54,8 @@
                         <div class="icon">
                             <i class='bx bx-laptop'></i>
                         </div>
-                        <h3>Web Development</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>Cloud Databases, storage, and warehouses</h3>
+                        <p>Azure, Amazon Web Services, Google Cloud, Oracle...</p>
 
                         <div class="back-icon">
                             <i class='bx bx-laptop'></i>
@@ -83,13 +68,8 @@
                         <div class="icon">
                             <i class='bx bx-cart'></i>
                         </div>
-                        <h3>eCommerce</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>Data visualization</h3>
+                        <p>Google Charts, Tableau, PowerBI, QlikView...</p>
 
                         <div class="back-icon">
                             <i class='bx bx-cart'></i>
@@ -102,13 +82,8 @@
                         <div class="icon">
                             <i class='bx bxs-dashboard'></i>
                         </div>
-                        <h3>Project Management</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>DevOps</h3>
+                        <p>Kubernetes, Selenium, Docker, Jenkins, Katalon TestOps, Azure DevOps, Chef, Jira...</p>
 
                         <div class="back-icon">
                             <i class='bx bxs-dashboard'></i>
@@ -121,54 +96,11 @@
                         <div class="icon">
                             <i class='bx bx-data'></i>
                         </div>
-                        <h3>Web Hosting</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
+                        <h3>Mobile App Development</h3>
+                        <p>Xamarin, Android Studio, React Native, Adobe PhoneGap, Flutter...</p>
 
                         <div class="back-icon">
                             <i class='bx bxs-bell-ring'></i>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-sm-6">
-                    <div class="features-box">
-                        <div class="icon">
-                            <i class='bx bxs-info-circle'></i>
-                        </div>
-                        <h3>Technical Support</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
-
-                        <div class="back-icon">
-                            <i class='bx bxs-info-circle'></i>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-sm-6">
-                    <div class="features-box">
-                        <div class="icon">
-                            <i class='bx bx-cog'></i>
-                        </div>
-                        <h3>SEO, Affiliate Marketing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                        <NuxtLink to="/single-service" class="read-more">
-                            Read more 
-                            <i class='bx bx-right-arrow-alt'></i>
-                        </NuxtLink>
-
-                        <div class="back-icon">
-                            <i class='bx bx-cog'></i>
                         </div>
                     </div>
                 </div>

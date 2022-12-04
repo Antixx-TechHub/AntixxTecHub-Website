@@ -4,13 +4,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <h3> AI (Artificial Intelligence) & ML (Machine Learning) Services by Antixx TechHub</h3>
+                        <p>Welcome to Antixx TechHub- the leading AI and ML service provider company! Our intelligent AI and ML solutions teach machines to see and hear the real-time development, assess the requirements, and act for the particular objectives. We have the best trained AI & ML developers to blend the data analytics with modern engineering of business solutions development.</p>
                     </div>
                 </div>
 
