@@ -7,12 +7,12 @@
 </template>
 
 <script>
-// import Preloader from './Preloader'
+import Preloader from './Preloader'
 import GoTop from './GoTop'
 
 export default {
     components: { 
-        // Preloader,
+        Preloader,
         GoTop,
     },
     data() {

@@ -24,20 +24,20 @@
 <script>
 import TopBar from '../layouts/TopBar'
 import Navbar from '../layouts/Navbar';
-import MainBanner from '../components/home/MainBanner';
-import Features from '../components/home/Features';
-import Welcome from '../components/home/Welcome';
-import About from '../components/home/About';
-import WhatWeDo from '../components/home/WhatWeDo';
-import WhyChooseUs from '../components/home/WhyChooseUs';
-import WeWork from '../components/home/WeWork';
-import Funfacts from '../components/home/Funfacts';
-import OurExpertise from '../components/home/OurExpertise';
-import Analysis from '../components/home/Analysis';
-import Videos from '../components/home/Videos';
-import Partner from '../components/home/Partner'
-import Testimonials from '../components/home/Testimonials';
-import OurLatestBlog from '../components/home/OurLatestBlog';
+import MainBanner from '../components/Index/MainBanner';
+import Features from '../components/Index/Features';
+import Welcome from '../components/Index/Welcome';
+import About from '../components/Index/About';
+import WhatWeDo from '../components/Index/WhatWeDo';
+import WhyChooseUs from '../components/Index/WhyChooseUs';
+import WeWork from '../components/Index/WeWork';
+import Funfacts from '../components/Index/Funfacts';
+import OurExpertise from '../components/Index/OurExpertise';
+import Analysis from '../components/Index/Analysis';
+import Videos from '../components/Index/Videos';
+import Partner from '../components/Index/Partner'
+import Testimonials from '../components/Index/Testimonials';
+import OurLatestBlog from '../components/Index/OurLatestBlog';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {

@@ -1,35 +1,43 @@
 <template>
-    <div class="funfacts-inner">
-        <div class="row">
-            <div class="col-lg-3 col-6 col-sm-6">
-                <div class="single-funfacts funfact-style-two">
-                    <i class='bx bx-list-check'></i>
-                    <h3>850+</h3>
-                    <p>Completed Projects</p>
-                </div>
-            </div>
+    <div class="sm-funfacts-area me-funfacts">
+        <div class="container">
+            <div class="sm-funfacts-inner-box bg-with-linear-gradient pt-100 pb-70">
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-6 col-sm-6 col-md-3">
+                        <div class="sm-single-funfacts">
+                            <i class="bx bx-list-check"></i>
+                            <h3>800+</h3>
+                            <p>Projects Delivered Successfully</p>
+                        </div>
+                    </div>
 
-            <div class="col-lg-3 col-6 col-sm-6">
-                <div class="single-funfacts funfact-style-two">
-                    <i class='bx bx-smile'></i>
-                    <h3>850+</h3>
-                    <p>Happy Clients</p>
-                </div>
-            </div>
+                    <div class="col-lg-3 col-6 col-sm-6 col-md-3">
+                        <div class="sm-single-funfacts">
+                            <i class="bx bx-smile"></i>
+                            <h3>999+</h3>
+                            <p>Satisfied Clients</p>
+                        </div>
+                    </div>
 
-            <div class="col-lg-3 col-6 col-sm-6">
-                <div class="single-funfacts funfact-style-two">
-                    <i class='bx bx-grid-small'></i>
-                    <h3>120+</h3>
-                    <p>Ongoing Projects</p>
-                </div>
-            </div>
+                    <div class="col-lg-3 col-6 col-sm-6 col-md-3">
+                        <div class="sm-single-funfacts">
+                            <i class="bx bx-grid-small"></i>
+                            <h3>120+</h3>
+                            <p>Projects in Progress</p>
+                        </div>
+                    </div>
 
-            <div class="col-lg-3 col-6 col-sm-6">
-                <div class="single-funfacts funfact-style-two">
-                    <i class='bx bxs-award'></i>
-                    <h3>50+</h3>
-                    <p>Winning Awards</p>
+                    <div class="col-lg-3 col-6 col-sm-6 col-md-3">
+                        <div class="sm-single-funfacts">
+                            <i class="bx bxs-award"></i>
+                            <h3>70+</h3>
+                            <p>Remarkable Achievements</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="funfacts-shape">
+                    <img src="~/assets/img/marketing-experts/funfacts-shape.png" alt="image">
                 </div>
             </div>
         </div>
