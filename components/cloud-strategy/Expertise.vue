@@ -9,27 +9,43 @@
                 </div>
 
                 <div class="col-lg-6 col-md-12">
-                    <div class="is-expertise-content">
-                        <span class="sub-title">Expertise</span>
-                        <h3>First to last business solution</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        
-                        <h3>Quality assurance & testing service</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts">
-                                    <h2>1500 +</h2>
-                                    <p>Projects Launched</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts bg-DEEEFA">
-                                    <h2>18 +</h2>
-                                    <p>Years of Experience</p>
-                                </div>
-                            </div>
+                    <div class="me-choose-content">
+                        <h3>Why You Should Partner With Antixx TechHub for Cloud Strategy Solutions</h3>
+                        <p>At Antixx TechHub, we have the expertise, experience, and client-centric approach you’re
+                            looking for to get the benefits of integrating Cloud strategic solutions. With the
+                            experience of delivering numbers of projects, we have many reasons to be your trustworthy
+                            partner for integrating and configuring Google Cloud solutions.</p>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Seamless Communication:</h4>
+                            <p>Collaborative and accessible</p>
                         </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Supreme Quality:</h4>
+                            <p>The robust quality control</p>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Tech Expertise:</h4>
+                            <p>Innovative approach to incorporate the advanced technologies</p>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Transparency and Accountability:</h4>
+                            <p>Share real-time insights about all the aspects of project status</p>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Industry-Best Talent:</h4>
+                            <p>Advantage of working with the best certified Cloud strategy specialists</p>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Post-Delivery Support:</h4>
+                            <p>Unique support model to manage, maintain and update the integrated Google solutions</p>
+                        </div>
+                        <p>As a Cloud consulting and services provider, we at Antixx TechHub analyze deeply to understand the existing ecosystem, intended goals, silos, potential for improvement, feasibility, and ROI before charting out the roadmap for creating, delivering, implementing the best results-delivering Cloud strategy solutions and support model.</p>
                     </div>
                 </div>
             </div>

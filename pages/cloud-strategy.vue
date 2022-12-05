@@ -2,24 +2,12 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Cloud Strategy" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
+        <WhyChooseUs />
+        <MoreToDiscover />
+        <Services />
         <Expertise />
-        <Faq />
-        <Pricing />
+        <!-- <Faq /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

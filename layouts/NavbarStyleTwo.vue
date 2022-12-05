@@ -72,14 +72,8 @@
                                             <NuxtLink to="/cloud-strategy" class="nav-link">
                                                 <p>Cloud Strategy</p>
                                             </NuxtLink>
-                                            <NuxtLink to="/digital-commerce" class="nav-link">
-                                                <p>Digital Commerce</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/data-analytics" class="nav-link">
-                                                <p>Data & Analytics</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/business-strategy" class="nav-link">
-                                                <p>Business Strategy</p>
+                                            <NuxtLink to="/big-data-solutions" class="nav-link">
+                                                <p>Big Data Analytics</p>
                                             </NuxtLink>
                                         </NuxtLink>
                                     </li>
@@ -90,9 +84,6 @@
                                             Custom Solutions
                                             <NuxtLink to="/it-consulting" class="nav-link">
                                                 <p>IT Consulting</p>
-                                            </NuxtLink>
-                                            <NuxtLink to="/big-data-solutions" class="nav-link">
-                                                <p>Big Data Solutions</p>
                                             </NuxtLink>
                                             <NuxtLink to="/staff-augmentation" class="nav-link">
                                                 <p>Staff Augmentation</p>

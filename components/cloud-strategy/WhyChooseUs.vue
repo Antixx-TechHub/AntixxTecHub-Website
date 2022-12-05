@@ -4,24 +4,39 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="me-choose-content">
-                        <span>Why Choose Us</span>
-                        <h3>We are committed to providing our services</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed tellus.</p>
-                        
+                        <h3>Why You Need To Hire Cloud Strategy Agency- The Benefits of Cloud Strategy Solutions</h3>
+                        <p>Our experienced Cloud strategy experts help you harness the power of Google to conquer your business goals. By combining our industry-specific expertise in integrating Google’s innovative technology, our strategic solutions deliver much-required scalable transformation. Our tailored-to-need Cloud strategy consulting services and operational solutions push the boundaries of what you can achieve. We at Antixx TechHub, the #1 Cloud strategy company, help you:</p>
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>Transparent</h4>
-                            <p>Accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
+                            <h4>Develop roadmaps for long-term goals</h4>
                         </div>
                         <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>Affordable</h4>
-                            <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis.</p>
+                            <h4>Leverage the potential of cloud solutions</h4>
                         </div>
                         <div class="choose-inner-card bg-three">
                             <i class='bx bx-check'></i>
-                            <h4>Flexible</h4>
-                            <p>accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo</p>
+                            <h4>Reduce operational costs by integrating automation solutions</h4>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Increase the overall ROI</h4>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Improve efficiencies</h4>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Have real-time data-driven insights for different objectives</h4>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Secure data management</h4>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Improve customer engagement and satisfaction</h4>
                         </div>
                     </div>
                 </div>
